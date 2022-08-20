@@ -1,0 +1,173 @@
+%% Based on a TeXnicCenter-Template by Gyorgy SZEIDL.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
+% title
+%		\title[This is my Title]{Presentation\\ Title}	
+	% author 
+    % (In the mandatory argument "{}", separate multiple
+    % authors with "\and" - use "\\" for better author name formatting
+    % in the title page. In the optional argument "[]" include all
+	% author names, with no "\and" or text formatting macros.)
+	% Example: 
+    %\author[A. Author Albert Einstein]{Anthony Author \and Albert Einstein}
+		%\author[A. Author]{Anthony Author}
+	% supervisor	
+		%\supervisor{Supervisor}{Mister Supervisor}{Professor}
+	% date
+		%\presentationDate{October 22, 2017}
+%
+\documentclass[spanish,a4paper]{beamer}%
+\usetheme{Berlin}%Berlin}Luebeck
+%% CUSTOM COLOR
+%\definecolor{myyellow}{rgb}{.9,.9,.1}
+%\usecolortheme[named=myyellow]{structure}
+\usecolortheme{whale}
+
+\makeatletter
+\let\beamer@writeslidentry@miniframeson=\beamer@writeslidentry%
+\def\beamer@writeslidentry@miniframesoff{%
+  \expandafter\beamer@ifempty\expandafter{\beamer@framestartpage}{}% does not happen normally
+  {%else
+    % removed \addtocontents commands
+    \clearpage\beamer@notesactions%
+  }
+}
+\newcommand*{\miniframeson}{\let\beamer@writeslidentry=\beamer@writeslidentry@miniframeson}
+\newcommand*{\miniframesoff}{\let\beamer@writeslidentry=\beamer@writeslidentry@miniframesoff}
+\makeatother
+
+%\setbeamertemplate{footline}[page number] 
+
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage{color}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{cite}
+\usepackage{epstopdf}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{multicol}
+\sloppy
+\epstopdfsetup{outdir=./pdf}
+\usepackage{graphicx}
+
+\usepackage{caption}
+\usepackage{subcaption}
+%para generar índice con hipervínculos
+\usepackage{hyperref}
+
+
+%parametros del documento (sus propiedades)
+\hypersetup{
+    pdftitle={Martin Augusto Reigadas Teran - TFG - 2022},
+    pdfsubject={TFG - 2022},
+    pdfauthor={Martin Augusto Reigadas Teran},
+    pdfkeywords={termo-fotovoltaica} {campo cercano} {recuperación de calor},
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black,
+}
+
+\title{Modelado y simulación de espaciadores nanométricos para su aplicación en dispositivos TPVs de campo cercano}
+\author[Martin Augusto Reigadas Teran]{\large Martin Augusto Reigadas Teran}
+\institute{Universidad Politécnica de Madrid}
+%\supervisor{Tutor}{Pablo García-Linares Fontes}{Profesor}
+\date{Septiembre, 2022}
+
+\AtBeginSection{
+\begin{frame}{Tabla de Contenidos}
+	\tableofcontents[currentsection]
+\end{frame}
+}
+
+\begin{document}
+%\metroset{block=fill}
+
+%% TITLE PAGE
+{
+\setbeamercolor{author in head/foot}{use=palette secondary, fg=palette secondary.bg} 
+\setbeamercolor{institute in head/foot}{use=palette secondary, fg=palette secondary.bg}
+
+\setbeamercolor{title in head/foot}{use=palette tertiary, fg=palette tertiary.bg}
+\setbeamercolor{short title in head/foot}{use=palette tertiary, fg=palette tertiary.bg}
+
+\setbeamercolor{section in head/foot}{use=palette tertiary, fg=palette tertiary.bg}
+\setbeamercolor{subsection in head/foot}{use=palette secondary, fg=palette secondary.bg} 
+
+\begin{frame}
+	\titlepage
+	\begin{minipage}[l]{0.48\textwidth}
+	\begin{flushleft}
+		\footnotesize \itshape  Tutor: Pablo García-Linares Fontes\\
+		\tiny Departamento de Ingeniería Eléctrica, Electrónica, Automática y
+Física Aplicada		
+	\end{flushleft}
+	\end{minipage}\hfill
+	\begin{minipage}[r]{0.48\textwidth}
+	\begin{flushright}
+		\footnotesize \itshape Cotutora: Esther López Estrada\\
+		 \tiny Instituto de Energía Solar\\
+		
+				
+	\end{flushright}
+	\end{minipage}
+\end{frame}
+
+}
+
+%%  TABLA DE CONTENIDOS
+{
+\setbeamercolor{section in head/foot}{use=palette tertiary, fg=palette tertiary.bg}
+\setbeamercolor{subsection in head/foot}{use=palette secondary, fg=palette secondary.bg} 
+\begin{frame}{Tabla de contenidos}
+	\begin{multicols}{2}
+    \tableofcontents[hideallsubsections]
+	\end{multicols}
+\end{frame}
+}
+%% INTRODUCCION
+\section{Introducción}
+\begin{frame}{Introducción}
+	\begin{block}{Def}
+	sd
+	\end{block}
+\end{frame}
+
+\section{Estado del arte}
+\begin{frame}{Estado del arte}
+	
+\end{frame}
+
+\section{Materiales y herramientas}
+\begin{frame}{Materiales y herramientas}
+	
+\end{frame}
+
+\section{Métodos}
+\begin{frame}{Métodos}
+	
+\end{frame}
+
+\section{Resultados y discusión}
+\begin{frame}{Resultados y discusión}
+
+\end{frame}
+
+\section{Conclusiones}
+\begin{frame}{Conclusiones}
+	
+\end{frame}
+
+\miniframesoff
+\section{}
+\begin{frame}{standout}	
+
+\end{frame}
+
+\end{document}

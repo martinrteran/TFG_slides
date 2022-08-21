@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  21 AUG 2022 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  21 AUG 2022 22:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,16 +775,6 @@ default.sty
 )
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
 default.sty)))
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeBerli
-n.sty
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
-miniframes.sty)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
-whale.sty)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
-orchid.sty)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
-rectangles.sty))
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2022/07/20 3.78 The Babel package
 \babel@savecnt=\count334
@@ -973,7 +963,19 @@ Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
 \c@subfigure=\count351
 \c@subtable=\count352
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 99.
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeBerli
+n.sty
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+miniframes.sty)
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+whale.sty)
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+orchid.sty)
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+rectangles.sty))
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+structure.sty)
+Package hyperref Info: Option `colorlinks' set `true' on input line 100.
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
@@ -983,27 +985,34 @@ File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 ) (TFG_Slides.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
+
+
+LaTeX Warning: Label `fig:PV_Effect' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:PV_Effect' multiply defined.
+
 )
 \openout1 = `TFG_Slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 126.
-LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1055,63 +1064,63 @@ ii
 \makeMPintoPDFobject=\count359
 \everyMPtoPDFconversion=\toks52
 )
-Package hyperref Info: Link coloring ON on input line 126.
+Package hyperref Info: Link coloring ON on input line 129.
  (TFG_Slides.out) (TFG_Slides.out)
 \@outlinefile=\write5
 \openout5 = `TFG_Slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 126.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 129.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 126.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 129.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 126.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 126.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 126.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 126.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 126.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 126.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 126.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 126.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 126.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 126.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 126.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 126.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 126.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 129.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 126.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 129.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 126.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 126.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 126.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 126.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 126.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 126.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 126.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 129.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 129.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-26.
+29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-26.
+29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 126.
+ut line 129.
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -1161,25 +1170,25 @@ Dictionary: translator-theorem-dictionary, Language: English
 heorem-dictionary-Spanish.dict
 Dictionary: translator-theorem-dictionary, Language: Spanish 
 )
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
+LaTeX Info: Redefining \. on input line 129.
+LaTeX Info: Redefining \% on input line 129.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (TFG_Slides.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 154
+LaTeX Font Info:    Trying to load font information for U+msa on input line 157
 .
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 154
+LaTeX Font Info:    Trying to load font information for U+msb on input line 157
 .
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 154.
+ut line 157.
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
@@ -1198,88 +1207,195 @@ LaTeX Info: Redefining \% on input line 1.
 ) [3
 
 ]
-<./figuras//DemandaEnergiaPrimariaProporcion1990.png, id=178, 398.4486pt x 333.
+<./figuras//DemandaEnergiaPrimariaProporcion1990.png, id=206, 398.4486pt x 333.
 4056pt>
 File: ./figuras//DemandaEnergiaPrimariaProporcion1990.png Graphic file (type pn
 g)
 <use ./figuras//DemandaEnergiaPrimariaProporcion1990.png>
 Package pdftex.def Info: ./figuras//DemandaEnergiaPrimariaProporcion1990.png  u
-sed on input line 184.
-(pdftex.def)             Requested size: 184.3758pt x 154.27907pt.
- [4
-
- <./figuras//DemandaEnergiaPrimariaProporcion1990.png (PNG copy)>]
-File: ./figuras//DemandaEnergiaPrimariaProporcion1990.png Graphic file (type pn
-g)
-<use ./figuras//DemandaEnergiaPrimariaProporcion1990.png>
-Package pdftex.def Info: ./figuras//DemandaEnergiaPrimariaProporcion1990.png  u
-sed on input line 184.
-(pdftex.def)             Requested size: 92.18788pt x 77.13445pt.
-<./figuras//consumoEnergiaFinalPorSectores_2019.png, id=211, 226.59656pt x 207.
+sed on input line 226.
+(pdftex.def)             Requested size: 178.22868pt x 149.13574pt.
+<./figuras//consumoEnergiaFinalPorSectores_2019.png, id=207, 226.59656pt x 207.
 02344pt>
 File: ./figuras//consumoEnergiaFinalPorSectores_2019.png Graphic file (type png
 )
 <use ./figuras//consumoEnergiaFinalPorSectores_2019.png>
 Package pdftex.def Info: ./figuras//consumoEnergiaFinalPorSectores_2019.png  us
-ed on input line 184.
-(pdftex.def)             Requested size: 61.45703pt x 56.14662pt.
- [5
+ed on input line 226.
+(pdftex.def)             Requested size: 122.91406pt x 112.2964pt.
 
- <./figuras//consumoEnergiaFinalPorSectores_2019.png>]
-File: ./figuras//DemandaEnergiaPrimariaProporcion1990.png Graphic file (type pn
-g)
-<use ./figuras//DemandaEnergiaPrimariaProporcion1990.png>
-Package pdftex.def Info: ./figuras//DemandaEnergiaPrimariaProporcion1990.png  u
-sed on input line 184.
-(pdftex.def)             Requested size: 92.18788pt x 77.13445pt.
-File: ./figuras//consumoEnergiaFinalPorSectores_2019.png Graphic file (type png
-)
-<use ./figuras//consumoEnergiaFinalPorSectores_2019.png>
-Package pdftex.def Info: ./figuras//consumoEnergiaFinalPorSectores_2019.png  us
-ed on input line 184.
-(pdftex.def)             Requested size: 61.45703pt x 56.14662pt.
-<./figuras//cicloCombinado.png, id=245, 1204.5pt x 954.56625pt>
+Overfull \vbox (5.9984pt too high) detected at line 226
+ []
+
+[4
+
+ <./figuras//DemandaEnergiaPrimariaProporcion1990.png (PNG copy)> <./figuras//c
+onsumoEnergiaFinalPorSectores_2019.png>]
+
+pdfTeX warning: pdflatex.exe (file ./figuras//esquemasLomasValorizacion.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<./figuras//esquemasLomasValorizacion.pdf, id=243, 547.11996pt x 229.13074pt>
+File: ./figuras//esquemasLomasValorizacion.pdf Graphic file (type pdf)
+<use ./figuras//esquemasLomasValorizacion.pdf>
+Package pdftex.def Info: ./figuras//esquemasLomasValorizacion.pdf  used on inpu
+t line 226.
+(pdftex.def)             Requested size: 169.01036pt x 70.78156pt.
+<./figuras//cicloCombinado.png, id=244, 1204.5pt x 954.56625pt>
 File: ./figuras//cicloCombinado.png Graphic file (type png)
 <use ./figuras//cicloCombinado.png>
-Package pdftex.def Info: ./figuras//cicloCombinado.png  used on input line 184.
+Package pdftex.def Info: ./figuras//cicloCombinado.png  used on input line 226.
 
-(pdftex.def)             Requested size: 76.82246pt x 60.86917pt.
- [6
+(pdftex.def)             Requested size: 122.91406pt x 97.39943pt.
+<./figuras//TEG.png, id=245, 240.42297pt x 237.56079pt>
+File: ./figuras//TEG.png Graphic file (type png)
+<use ./figuras//TEG.png>
+Package pdftex.def Info: ./figuras//TEG.png  used on input line 226.
+(pdftex.def)             Requested size: 116.77008pt x 90.85764pt.
+<./figuras//iTPV.png, id=248, 360.59718pt x 206.27063pt>
+File: ./figuras//iTPV.png Graphic file (type png)
+<use ./figuras//iTPV.png>
+Package pdftex.def Info: ./figuras//iTPV.png  used on input line 226.
+(pdftex.def)             Requested size: 147.49782pt x 84.37006pt.
 
- <./figuras//cicloCombinado.png>] (TFG_Slides.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-) [7
+Overfull \vbox (14.51971pt too high) detected at line 226
+ []
 
-] [8
+[5
+
+ <./figuras//esquemasLomasValorizacion.pdf> <./figuras//cicloCombinado.png> <./
+figuras//TEG.png> <./figuras//iTPV.png>]
+File: ./figuras//esquemasLomasValorizacion.pdf Graphic file (type pdf)
+<use ./figuras//esquemasLomasValorizacion.pdf>
+Package pdftex.def Info: ./figuras//esquemasLomasValorizacion.pdf  used on inpu
+t line 226.
+(pdftex.def)             Requested size: 169.01036pt x 70.78156pt.
+File: ./figuras//cicloCombinado.png Graphic file (type png)
+<use ./figuras//cicloCombinado.png>
+Package pdftex.def Info: ./figuras//cicloCombinado.png  used on input line 226.
+
+(pdftex.def)             Requested size: 122.91406pt x 97.39943pt.
+File: ./figuras//TEG.png Graphic file (type png)
+<use ./figuras//TEG.png>
+Package pdftex.def Info: ./figuras//TEG.png  used on input line 226.
+(pdftex.def)             Requested size: 116.77008pt x 90.85764pt.
+File: ./figuras//iTPV.png Graphic file (type png)
+<use ./figuras//iTPV.png>
+Package pdftex.def Info: ./figuras//iTPV.png  used on input line 226.
+(pdftex.def)             Requested size: 147.49782pt x 84.37006pt.
+
+Overfull \vbox (14.51971pt too high) detected at line 226
+ []
+
+[6
 
 ]
-(TFG_Slides.toc
+File: ./figuras//esquemasLomasValorizacion.pdf Graphic file (type pdf)
+<use ./figuras//esquemasLomasValorizacion.pdf>
+Package pdftex.def Info: ./figuras//esquemasLomasValorizacion.pdf  used on inpu
+t line 226.
+(pdftex.def)             Requested size: 169.01036pt x 70.78156pt.
+File: ./figuras//cicloCombinado.png Graphic file (type png)
+<use ./figuras//cicloCombinado.png>
+Package pdftex.def Info: ./figuras//cicloCombinado.png  used on input line 226.
+
+(pdftex.def)             Requested size: 122.91406pt x 97.39943pt.
+File: ./figuras//TEG.png Graphic file (type png)
+<use ./figuras//TEG.png>
+Package pdftex.def Info: ./figuras//TEG.png  used on input line 226.
+(pdftex.def)             Requested size: 116.77008pt x 90.85764pt.
+File: ./figuras//iTPV.png Graphic file (type png)
+<use ./figuras//iTPV.png>
+Package pdftex.def Info: ./figuras//iTPV.png  used on input line 226.
+(pdftex.def)             Requested size: 147.49782pt x 84.37006pt.
+
+Overfull \vbox (14.51971pt too high) detected at line 226
+ []
+
+[7
+
+]
+File: ./figuras//esquemasLomasValorizacion.pdf Graphic file (type pdf)
+<use ./figuras//esquemasLomasValorizacion.pdf>
+Package pdftex.def Info: ./figuras//esquemasLomasValorizacion.pdf  used on inpu
+t line 226.
+(pdftex.def)             Requested size: 169.01036pt x 70.78156pt.
+File: ./figuras//cicloCombinado.png Graphic file (type png)
+<use ./figuras//cicloCombinado.png>
+Package pdftex.def Info: ./figuras//cicloCombinado.png  used on input line 226.
+
+(pdftex.def)             Requested size: 122.91406pt x 97.39943pt.
+File: ./figuras//TEG.png Graphic file (type png)
+<use ./figuras//TEG.png>
+Package pdftex.def Info: ./figuras//TEG.png  used on input line 226.
+(pdftex.def)             Requested size: 116.77008pt x 90.85764pt.
+File: ./figuras//iTPV.png Graphic file (type png)
+<use ./figuras//iTPV.png>
+Package pdftex.def Info: ./figuras//iTPV.png  used on input line 226.
+(pdftex.def)             Requested size: 147.49782pt x 84.37006pt.
+
+Overfull \vbox (14.51971pt too high) detected at line 226
+ []
+
+[8
+
+] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [9
 
-] [10
-
 ] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [11
+) [10
 
-] [12
+]
+<./figuras//PV_Effect.jpg, id=744, 339.51843pt x 218.31563pt>
+File: ./figuras//PV_Effect.jpg Graphic file (type jpg)
+<use ./figuras//PV_Effect.jpg>
+Package pdftex.def Info: ./figuras//PV_Effect.jpg  used on input line 264.
+(pdftex.def)             Requested size: 147.49782pt x 94.84326pt.
+<./figuras//TPV_40_BSR.png, id=747, 430.60875pt x 405.01312pt>
+File: ./figuras//TPV_40_BSR.png Graphic file (type png)
+<use ./figuras//TPV_40_BSR.png>
+Package pdftex.def Info: ./figuras//TPV_40_BSR.png  used on input line 264.
+(pdftex.def)             Requested size: 122.91406pt x 115.60915pt.
+ [11
 
-] (TFG_Slides.toc
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:PV_Effect
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.264 	\end{frame}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{sub@fig:PV_Ef
+fect}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.264 	\end{frame}
+                   <./figuras//PV_Effect.jpg> <./figuras//TPV_40_BSR.png>]
+File: ./figuras//TPV_40_BSR.png Graphic file (type png)
+<use ./figuras//TPV_40_BSR.png>
+Package pdftex.def Info: ./figuras//TPV_40_BSR.png  used on input line 264.
+(pdftex.def)             Requested size: 122.91406pt x 115.60915pt.
+<./figuras//graficaDiff_dc_fullEqu.png, id=791, 560.0925pt x 432.86719pt>
+File: ./figuras//graficaDiff_dc_fullEqu.png Graphic file (type png)
+<use ./figuras//graficaDiff_dc_fullEqu.png>
+Package pdftex.def Info: ./figuras//graficaDiff_dc_fullEqu.png  used on input l
+ine 264.
+(pdftex.def)             Requested size: 147.49782pt x 113.99591pt.
+
+[12
+
+ <./figuras//graficaDiff_dc_fullEqu.png>] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
-Overfull \vbox (6.91563pt too high) detected at line 206
- []
-
-[13
+) [13
 
 ] [14
 
-] (TFG_Slides.toc
+]
+(TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [15
@@ -1298,13 +1414,203 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [19
 
-] [20
+]
+(TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [20
 
-] [21
-
-] [22
+] (TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [21
 
 ]
+<./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf, id=1158, 380.42125pt x 315
+.1775pt>
+File: ./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf Graphic file (type pdf
+)
+<use ./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf>
+Package pdftex.def Info: ./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf  us
+ed on input line 396.
+(pdftex.def)             Requested size: 138.2795pt x 114.56511pt.
+<./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane.png, id=1159, 756.57657
+pt x 361.35pt>
+File: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane.png Graphic file (
+type png)
+<use ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane.png>
+Package pdftex.def Info: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane
+.png  used on input line 396.
+(pdftex.def)             Requested size: 122.9164pt x 58.7049pt.
+<./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf, id=1160, 380.42125pt x 310
+.15875pt>
+File: ./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf Graphic file (type pdf
+)
+<use ./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf>
+Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf  us
+ed on input line 396.
+(pdftex.def)             Requested size: 138.2795pt x 112.74083pt.
+<./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png, id=1161, 755.07
+094pt x 368.87813pt>
+File: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png Graphic fil
+e (type png)
+<use ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png>
+Package pdftex.def Info: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane
+_Rc.png  used on input line 396.
+(pdftex.def)             Requested size: 122.9164pt x 60.04611pt.
+ [22
+
+ <./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf> <./figuras/Resultados/con
+duccion//SiSiO2Si_1000nm_Plane.png> <./figuras/Resultados/conduccion//Prc2_SiSi
+O2Si.pdf> <./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png>]
+<./figuras/Resultados/radiacion//SiSi_ds.pdf, id=1307, 449.68pt x 302.12875pt>
+File: ./figuras/Resultados/radiacion//SiSi_ds.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/radiacion//SiSi_ds.pdf>
+Package pdftex.def Info: ./figuras/Resultados/radiacion//SiSi_ds.pdf  used on i
+nput line 396.
+(pdftex.def)             Requested size: 153.64493pt x 103.22952pt.
+<./figuras/Resultados/radiacion//p_11_SiSi.pdf, id=1308, 396.48125pt x 291.0875
+pt>
+File: ./figuras/Resultados/radiacion//p_11_SiSi.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/radiacion//p_11_SiSi.pdf>
+Package pdftex.def Info: ./figuras/Resultados/radiacion//p_11_SiSi.pdf  used on
+ input line 396.
+(pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
+ [23
+
+ <./figuras/Resultados/radiacion//SiSi_ds.pdf> <./figuras/Resultados/radiacion/
+/p_11_SiSi.pdf>]
+<./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf, id=1539, 374.39874pt x 3
+08.15125pt>
+File: ./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf Graphic file (type p
+df)
+<use ./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf>
+Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf  
+used on input line 396.
+(pdftex.def)             Requested size: 153.64493pt x 126.46037pt.
+<./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pdf, id=1540, 369.38pt x 3
+10.15875pt>
+File: ./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pdf Graphic file (typ
+e pdf)
+<use ./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pdf>
+Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pd
+f  used on input line 396.
+(pdftex.def)             Requested size: 153.64493pt x 129.01163pt.
+ [24
+
+ <./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf> <./figuras/Resultados/R
+elacionCondRad//rel_SiSi11_Rc.pdf>] (TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [25
+
+]
+<./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf, id=1822, 386.44376pt x 310.1
+5875pt>
+File: ./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf>
+Package pdftex.def Info: ./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf  used
+ on input line 492.
+(pdftex.def)             Requested size: 153.64493pt x 123.31354pt.
+<./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf, id=1823, 380.42125pt x 310
+.15875pt>
+File: ./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf Graphic file (type pdf
+)
+<use ./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf>
+Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf  us
+ed on input line 492.
+(pdftex.def)             Requested size: 153.64493pt x 125.26811pt.
+
+Overfull \vbox (1.93727pt too high) detected at line 492
+ []
+
+[26
+
+ <./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf> <./figuras/Resultados/condu
+ccion//Prc2_SiSiO2Ge.pdf>]
+<./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf, id=1971, 446.66875pt x 302.1
+2875pt>
+File: ./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf>
+Package pdftex.def Info: ./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf  used
+ on input line 492.
+(pdftex.def)             Requested size: 153.64493pt x 103.92564pt.
+<./figuras/Resultados/radiacion//p_Eg_SiGe.pdf, id=1972, 396.48125pt x 291.0875
+pt>
+File: ./figuras/Resultados/radiacion//p_Eg_SiGe.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/radiacion//p_Eg_SiGe.pdf>
+Package pdftex.def Info: ./figuras/Resultados/radiacion//p_Eg_SiGe.pdf  used on
+ input line 492.
+(pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
+ [27
+
+ <./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf> <./figuras/Resultados/radia
+cion//p_Eg_SiGe.pdf>]
+<./figuras/Resultados/RelacionCondRad//SiGe.png, id=2187, 370.0224pt x 308.352p
+t>
+File: ./figuras/Resultados/RelacionCondRad//SiGe.png Graphic file (type png)
+<use ./figuras/Resultados/RelacionCondRad//SiGe.png>
+Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiGe.png  used o
+n input line 492.
+(pdftex.def)             Requested size: 153.64493pt x 128.03897pt.
+<./figuras/Resultados/RelacionCondRad//SiGe_Rc.png, id=2188, 372.9132pt x 308.3
+52pt>
+File: ./figuras/Resultados/RelacionCondRad//SiGe_Rc.png Graphic file (type png)
+
+<use ./figuras/Resultados/RelacionCondRad//SiGe_Rc.png>
+Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiGe_Rc.png  use
+d on input line 492.
+(pdftex.def)             Requested size: 153.64493pt x 127.0462pt.
+
+Overfull \vbox (1.6627pt too high) detected at line 492
+ []
+
+[28
+
+ <./figuras/Resultados/RelacionCondRad//SiGe.png (PNG copy)> <./figuras/Resulta
+dos/RelacionCondRad//SiGe_Rc.png (PNG copy)>] (TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [29
+
+] [30
+
+]
+(TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [31
+
+] [32
+
+] (TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [33
+
+] [34
+
+] (TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [35
+
+]
+[36
+
+] (TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [37
+
+] [38
+
+] [39
+
+] (TFG_Slides.bbl) [40
+
+ <C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
+le.pdf>]
 \tf@nav=\write6
 \openout6 = `TFG_Slides.nav'.
 
@@ -1314,31 +1620,40 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@snm=\write8
 \openout8 = `TFG_Slides.snm'.
 
- (TFG_Slides.aux
+
+(TFG_Slides.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `TFG_Slides.out' has not changed.
-(rerunfilecheck)             Checksum: 5D7CE70304E8C61DCF3E7E748B454DFB;1057.
+(rerunfilecheck)             Checksum: 8A4D0BB72FB4719F4BB7CEB63C01EF6D;2102.
  ) 
 Here is how much of TeX's memory you used:
- 25605 strings out of 478337
- 507614 string characters out of 2836667
- 774416 words of memory out of 3000000
- 43418 multiletter control sequences out of 15000+600000
- 477941 words of font info for 58 fonts, out of 8000000 for 9000
+ 26105 strings out of 478337
+ 522304 string characters out of 2836667
+ 776461 words of memory out of 3000000
+ 43832 multiletter control sequences out of 15000+600000
+ 483080 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,448b,691s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 128i,15n,122p,416b,691s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmss10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/marti/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/marti/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on TFG_Slides.pdf (22 pages, 363764 bytes).
+cmmi10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmss10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/marti/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/mart
+i/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/
+Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8
+.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmssi9.pfb>
+Output written on TFG_Slides.pdf (40 pages, 3570774 bytes).
 PDF statistics:
- 867 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2716 PDF objects out of 2984 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
 

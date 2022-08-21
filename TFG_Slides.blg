@@ -1,48 +1,53 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: TFG_Slides.aux
-I found no \citation commands---while reading file TFG_Slides.aux
-I found no \bibdata command---while reading file TFG_Slides.aux
-I found no \bibstyle command---while reading file TFG_Slides.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 494 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+Database file #1: bibliografia/bibliografia.bib
+Warning--entry type for "picPvEffect" isn't style-file defined
+--line 665 of file bibliografia/bibliografia.bib
+Warning--to sort, need author or key in picPvEffect
+Warning--empty year in picPvEffect
+You've used 5 entries,
+            1935 wiz_defined-function locations,
+            506 strings with 4753 characters,
+and the built_in function-call counts, 2030 in all, are:
+= -- 189
+> -- 106
+< -- 2
++ -- 40
+- -- 38
+* -- 185
+:= -- 362
+add.period$ -- 13
+call.type$ -- 5
+change.case$ -- 44
+chr.to.int$ -- 5
+cite$ -- 8
+duplicate$ -- 65
+empty$ -- 128
+format.name$ -- 44
+if$ -- 383
+int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+missing$ -- 4
+newline$ -- 26
+num.names$ -- 12
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 44
 quote$ -- 0
-skip$ -- 0
+skip$ -- 50
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 130
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 30
+warning$ -- 2
+while$ -- 12
 width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+write$ -- 61
+(There were 3 warnings)

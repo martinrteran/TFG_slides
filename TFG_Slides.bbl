@@ -1,0 +1,31 @@
+\begin{thebibliography}{}
+
+\bibitem[pic, ]{picPvEffect}
+Solar cell : Construction, working, series and parallel combinations.
+
+\bibitem[Adalid, 2016]{TEG5efficiency}
+Adalid, V. (2016).
+\newblock A review on thermoelectric devices.
+\newblock {\em The Journal of Undergraduate Research at the University of
+  Illinois at Chicago}, 9.
+
+\bibitem[Datas and Vaillon, 2019]{Thermoionic_nTPV_DATAS201910}
+Datas, A. and Vaillon, R. (2019).
+\newblock Thermionic-enhanced near-field thermophotovoltaics.
+\newblock {\em Nano Energy}, 61:10--17.
+
+\bibitem[Francoeur et~al., 2009]{nfTPV_fullEquations}
+Francoeur, M., {Pinar Mengüç}, M., and Vaillon, R. (2009).
+\newblock Solution of near-field thermal radiation in one-dimensional layered
+  media using dyadic green's functions and the scattering matrix method.
+\newblock {\em Journal of Quantitative Spectroscopy and Radiative Transfer},
+  110(18):2002--2018.
+
+\bibitem[LaPotin et~al., 2022]{thermophotovoltaic_40}
+LaPotin, A., Schulte, K.~L., Steiner, M.~A., Buznitsky, K., Kelsall, C.~C.,
+  Friedman, D.~J., Tervo, E.~J., France, R.~M., Young, M.~R., Rohskopf, A.,
+  Verma, S., Wang, E.~N., and Henry, A. (2022).
+\newblock Thermophotovoltaic efficiency of 40\%.
+\newblock {\em Nature}, 604(7905):287--291.
+
+\end{thebibliography}

@@ -1,0 +1,187 @@
+
+Este sitio web almacena y accede a información en su dispositivo, como las cookies. Se pueden procesar datos personales, como identificadores de cookies, identificadores únicos de dispositivos e información del navegador. Los terceros pueden almacenar y acceder a información en su dispositivo y procesar estos datos personales. Puede cambiar o retirar sus preferencias haciendo clic en el icono de cookie; sin embargo, como consecuencia, es posible que no vea anuncios relevantes o contenido personalizado. Puedes cambiar la configuración en cualquier momento, o aceptar la configuración predeterminada. Política de privacidad
+
+Preferencias de almacenamiento Terceros
+
+    Almacenamiento
+    Marketing
+    Personalización
+    Analítica
+
+Guardar Aceptar todo
+
+Cerrar preferencias de cookies
+MENU
+Access provided by Univ Politecnica Madrid
+Sign in/Register
+Enter words / phrases / DOI / ISBN / authors / keywords / etc. SEARCH CITATION SEARCH
+Publisher Logo
+Applied Physics Letters
+like and follow us
+Facebook
+
+SUBMIT YOUR ARTICLE
+
+    HOME
+    ISSUES
+    INFO
+    FOR AUTHORS
+    COLLECTIONS
+
+SIGN UP FOR ALERTS
+
+    Home >
+    Applied Physics Letters >
+    Volume 106, Issue 8 >
+    10.1063/1.4913692
+
+Check for updates on crossmark
+Prev Next
+Full Submitted: 20 January 2015 Accepted: 16 February 2015 Published Online: 24 February 2015
+
+    Parallel-plate submicron gap formed by micromachined low-density pillars for near-field radiative heat transfer
+
+Appl. Phys. Lett. 106 , 083504 (2015); https://doi.org/10.1063/1.4913692
+Kota Ito 1,2 , a) , Atsushi Miura 1 , Hideo Iizuka 1 , and Hiroshi Toshiyoshi 2
+more... View Affiliations
+View Contributors
+
+    PDF
+
+    Abstract
+    Full Text
+    Figures
+    Cited by
+    Tools
+
+Share
+metrics
+
+    Topics
+        Topics
+            Thermodynamic states and processes
+            Thermal conductivity
+            Transducers
+            Glass
+            Optical interferometers
+            Finite-element analysis
+            Thermoelectric devices
+            Contact impedance
+            Thermophotovoltaics
+            Energy conversion
+
+ABSTRACT
+Near-field radiative heat transfer has been a subject of great interest due to the applicability to thermal management and energy conversion. In this letter, a submicron gap between a pair of diced fused quartz substrates is formed by using micromachined low-density pillars to obtain both the parallelism and small parasitic heat conduction. The gap uniformity is validated by the optical interferometry at four corners of the substrates. The heat flux across the gap is measured in a steady-state and is no greater than twice of theoretically predicted radiative heat flux, which indicates that the parasitic heat conduction is suppressed to the level of the radiative heat transfer or less. The heat conduction through the pillars is modeled, and it is found to be limited by the thermal contact resistance between the pillar top and the opposing substrate surface. The methodology to form and evaluate the gap promotes the near-field radiative heat transfer to various applications such as thermal rectification, thermal modulation, and thermophotovoltaics.
+Radiative heat transfer between two materials placed in the near-field regime is known to exceed the blackbody limit. 1 1. D. Polder and M. Van Hove, Phys. Rev. B 4 , 3303 (1971). https://doi.org/10.1103/PhysRevB.4.3303 Such radiative heat transfer behaves as quasi-monochromatic when materials support the electromagnetic surface resonances. Theoretical studies have reported the near field thermal radiation based on a parallel-plate geometry for numbers of applications, i.e., thermophotovoltaics, 2–5 2. A. Narayanaswamy and G. Chen, Appl. Phys. Lett. 82 , 3544 (2003). https://doi.org/10.1063/1.1575936 3. M. Laroche, R. Carminati, and J.-J. Greffet, J. Appl. Phys. 100 , 063704 (2006). https://doi.org/10.1063/1.2234560 4. K. Park, S. Basu, W. P. King, and Z. M. Zhang, J. Quant. Spectrosc. Radiat. Transfer 109 , 305 (2008). https://doi.org/10.1016/j.jqsrt.2007.08.022 5. M. Francoeur, R. Vaillon, and M. P. Menguc, IEEE Trans. Energy Convers. 26 , 686 (2011). https://doi.org/10.1109/TEC.2011.2118212 thermal rectification, 6–11 6. C. R. Otey, W. T. Lau, and S. Fan, Phys. Rev. Lett. 104 , 154301 (2010). https://doi.org/10.1103/PhysRevLett.104.154301 7. S. Basu and M. Francoeur, Appl. Phys. Lett. 98 , 113106 (2011). https://doi.org/10.1063/1.3567026 8. H. Iizuka and S. Fan, J. Appl. Phys. 112 , 024304 (2012). https://doi.org/10.1063/1.4737465 9. L. P. Wang and Z. M. Zhang, Nanoscale Microscale Thermophys. Eng. 17 , 337 (2013). https://doi.org/10.1080/15567265.2013.776154 10. Y. Yang, S. Basu, and L. Wang, Appl. Phys. Lett. 103 , 163101 (2013). https://doi.org/10.1063/1.4825168 11. H. Iizuka and S. Fan, J. Quant. Spectrosc. Radiat. Transfer 148 , 156– 164 (2014). https://doi.org/10.1016/j.jqsrt.2014.07.007 thermal switch, 12 12. L. Zhu, C. R. Otey, and S. Fan, Appl. Phys. Lett. 100 , 044104 (2012). https://doi.org/10.1063/1.3679694 thermal modulation, 13–15 13. S. A. Biehs, F. S. S. Rosa, and P. Ben-Abdallah, Appl. Phys. Lett. 98 , 243102 (2011). https://doi.org/10.1063/1.3596707 14. L. Cui, Y. Huang, J. Wang, and K. Y. Zhu, Appl. Phys. Lett. 102 , 053106 (2013). https://doi.org/10.1063/1.4790292 15. Y. Huang, S. V. Boriskina, and G. Chen, Appl. Phys. Lett. 105 , 244102 (2014). https://doi.org/10.1063/1.4904456 and thermal transistor, 16 16. P. Ben-Abdallah and S. A. Biehs, Phys. Rev. Lett. 112 , 044301 (2014). https://doi.org/10.1103/PhysRevLett.112.044301 in which large heat flux and/or spectral coherence are adopted.
+On the experimental side, a sphere-plate geometry 17–24 17. A. Narayanaswamy, S. Shen, and G. Chen, Phys. Rev. B 78 , 115303 (2008). https://doi.org/10.1103/PhysRevB.78.115303 18. S. Shen, A. Narayanaswamy, and G. Chen, Nano Lett. 9 , 2909 (2009). https://doi.org/10.1021/nl901208v 19. E. Rousseau, A. Siria, G. Jourdan, S. Volz, F. Comin, J. Chevrier, and J.-J. Greffet, Nat. Photonics 3 , 514 (2009). https://doi.org/10.1038/nphoton.2009.144 20. P. J. van Zwol, L. Ranno, and J. Chevrier, Phys. Rev. Lett. 108 , 234301 (2012). https://doi.org/10.1103/PhysRevLett.108.234301 21. B. Guha, C. Otey, C. B. Poitras, S. Fan, and M. Lipson, Nano Lett. 12 , 4546 (2012). https://doi.org/10.1021/nl301708e 22. S. Shen, A. Narayanaswamy, S. Goh, and G. Chen, Appl. Phys. Lett. 92 , 063509 (2008). https://doi.org/10.1063/1.2829999 23. J. Shi, P. Li, B. Liu, and S. Shen, Appl. Phys. Lett. 102 , 183114 (2013). https://doi.org/10.1063/1.4804631 24. J. Shi, B. Liu, P. Li, L. Y. Ng, and S. Shen, Nano Lett. 15 , 1217– 1221 (2015). https://doi.org/10.1021/nl504332t and integrated nanobeams 25 25. R. St-Gelais, B. Guha, L. Zhu, S. Fan, and M. Lipson, Nano Lett. 14 , 6971 (2014). https://doi.org/10.1021/nl503236k have been utilized to achieve excellent agreement with numerical calculation. These geometries are promising for applications such as scanning thermal microscope 26 26. Y. De Wilde, F. Formanek, R. Carminati, B. Gralak, P. A. Lemoine, K. Joulain, J. P. Mulet, Y. Chen, and J. J. Greffet, Nature 444 , 740– 743 (2006). https://doi.org/10.1038/nature05265 and cooling of nanostructures, 21 21. B. Guha, C. Otey, C. B. Poitras, S. Fan, and M. Lipson, Nano Lett. 12 , 4546 (2012). https://doi.org/10.1021/nl301708e but they are not suitable to directly demonstrate large heat flux and spectral coherence. The heat transfer coefficient through the sphere-plate 19 19. E. Rousseau, A. Siria, G. Jourdan, S. Volz, F. Comin, J. Chevrier, and J.-J. Greffet, Nat. Photonics 3 , 514 (2009). https://doi.org/10.1038/nphoton.2009.144 is shown in Fig. 1 after normalizing the result with respect to the sphere area projected to the plate. The result suggests that the heat transfer between the sphere and the plate is far smaller than the theoretical prediction for the parallel-plate geometry. As for the measurement based on the parallel-plate geometry, gaps larger than 1  μ m have been achieved by positioners, monitoring the gap uniformity by capacitive sensors. 27–30 27. C. M. Hargreaves, Phys. Lett. A 30 , 491 (1969). https://doi.org/10.1016/0375-9601(69)90264-3 28. R. S. Ottens, V. Quetschke, S. Wise, A. A. Alemi, R. Lundock, G. Mueller, D. H. Reitze, D. B. Tanner, and B. F. Whiting, Phys. Rev. Lett. 107 , 014301 (2011). https://doi.org/10.1103/PhysRevLett.107.014301 29. T. Kralik, P. Hanzelka, V. Musilova, A. Srnka, and M. Zobac, Rev. Sci. Instrum. 82 , 055106 (2011). https://doi.org/10.1063/1.3585985 30. T. Kralik, P. Hanzelka, M. Zobac, V. Musilova, T. Fort, and M. Horak, Phys. Rev. Lett. 109 , 224302 (2012). https://doi.org/10.1103/PhysRevLett.109.224302 On the other hand, mechanical spacers have been inserted between the plates to maintain the gap. 31–33 31. R. S. DiMatteo, P. Greiff, S. L. Finberg, K. Young-Waithe, H. K. H. Choy, M. M. Masaki, and C. G. Fonstad, Appl. Phys. Lett. 79 , 1894 (2001). https://doi.org/10.1063/1.1400762 32. R. DiMatteo, P. Greiff, D. Seltzer, D. Meulenberg, E. Brown, E. Carlen, K. Kaiser, S. Finberg, H. Nguyen, J. Azarkevich, P. Baldasaro, J. Beausang, L. Danielson, M. Dashiell, D. DePoy, H. Ehsani, W. Topper, K. Rahner, and R. Siergiej, AIP Conf. Proc. 653 , 232 (2003). https://doi.org/10.1063/1.1539379 33. L. Hu, A. Narayanaswamy, X. Chen, and G. Chen, Appl. Phys. Lett. 92 , 133106 (2008). https://doi.org/10.1063/1.2905286 In Ref. 32 32. R. DiMatteo, P. Greiff, D. Seltzer, D. Meulenberg, E. Brown, E. Carlen, K. Kaiser, S. Finberg, H. Nguyen, J. Azarkevich, P. Baldasaro, J. Beausang, L. Danielson, M. Dashiell, D. DePoy, H. Ehsani, W. Topper, K. Rahner, and R. Siergiej, AIP Conf. Proc. 653 , 232 (2003). https://doi.org/10.1063/1.1539379 , tubular spacers were manufactured to form a submicron gap between a silicon heater chip and a photovoltaic diode, but the parallelism of the submicron gap was not monitored.
+figure
+FIG. 1. Heat transfer coefficients as a function of the gap. Theoretically calculated radiative heat transfer (RHT) coefficients between SiO 2 films and between SiC films are shown in the bold lines. Calculated conductive heat transfer coefficients through spacer materials with thermal conductivities of 10 −4 , 10 −5 , and 10 −6  W m −1 K −1 are shown as the green dashed-dotted lines. Conductive coefficients through rarefied air with pressures of 10 and 1 Pa are shown in the horizontal blue dotted lines. Blackbody radiation is shown in the horizontal red line. Heat transfer coefficients are calculated with 320 K vs 300 K. Heat transfer coefficeints measured with the similar temperature bias condition by preceding studies 19,28,33 19. E. Rousseau, A. Siria, G. Jourdan, S. Volz, F. Comin, J. Chevrier, and J.-J. Greffet, Nat. Photonics 3 , 514 (2009). https://doi.org/10.1038/nphoton.2009.144 28. R. S. Ottens, V. Quetschke, S. Wise, A. A. Alemi, R. Lundock, G. Mueller, D. H. Reitze, D. B. Tanner, and B. F. Whiting, Phys. Rev. Lett. 107 , 014301 (2011). https://doi.org/10.1103/PhysRevLett.107.014301 33. L. Hu, A. Narayanaswamy, X. Chen, and G. Chen, Appl. Phys. Lett. 92 , 133106 (2008). https://doi.org/10.1063/1.2905286 are shown in dots. The data in Ref. 19 19. E. Rousseau, A. Siria, G. Jourdan, S. Volz, F. Comin, J. Chevrier, and J.-J. Greffet, Nat. Photonics 3 , 514 (2009). https://doi.org/10.1038/nphoton.2009.144 are normalized with respect to the sphere area projected to the plate. Data points are reduced for visualization.
+
+    PPT
+    |
+    High-resolution 
+
+In this letter, we experimentally demonstrate submicron gaps between polar materials with the spacer conduction suppressed to the level of the radiative heat transfer or lower. Micromachining technique allows us to create spacer pillars sparsely, thereby suppressing the net spacer conduction. The uniform gap is realized by the exertion of a relatively large pressure, which compensate the non-ideality of the wafer surface. The gap value is evaluated by the optical interferometry at the four points of the substrates, which assures the parallelism and the uniformity of the gap. We set three pillar heights of 0.5  μ m, 1.0  μ m, and 2  μ m. The heat fluxes across the gap are measured and modeled as the sum of the radiative heat flux and the parasitic conduction through pillars.
+Radiative heat flux ϕ between the identical semi-infinite films is written as 34 34. C. J. Fu and Z. M. Zhang, Int. J. Heat Mass Transfer 49 , 1703– 1718 (2006). https://doi.org/10.1016/j.ijheatmasstransfer.2005.09.037
+ϕ = 1 π 2 ∫ 0 + ∞ d ω [ Θ ( ω , 𝑇 𝐻 ) − Θ ( ω , 𝑇 𝐿 ) ] ∑ 𝑗 = 𝑠 , 𝑝 ∫ 0 + ∞ 𝑍 ( ω , β ,   𝑗 ) β d β , ϕ = 1 π 2 ∫ 0 + ∞ d ω [ Θ ( ω , T H ) − Θ ( ω , T L ) ] ∑ j = s , p ∫ 0 + ∞ Z ( ω , β ,   j ) β d β ,
+	
+and the exchange function is written as
+∫ 0 + ∞ 𝑍 ( ω , β ,   𝑗 ) β d β = ∫ 0 ω / 𝑐 ( 1 − | | 𝑟 𝑗 | | 2 ) 2 4 | | 1 − 𝑟 𝑗 2 𝑒 2 𝑖 γ 0 𝑑 | | 2 β d β + ∫ ω / 𝑐 + ∞ Im ( 𝑟 𝑗 ) 2 𝑒 − 2 Im ( γ 0 ) 𝑑 | | | 1 − 𝑟 𝑗 2 𝑒 − 2 Im ( γ 0 ) 𝑑 | | | 2 β d β , ∫ 0 + ∞ Z ( ω , β ,   j ) β d β = ∫ 0 ω / c ( 1 − | r j | 2 ) 2 4 | 1 − r j 2 e 2 i γ 0 d | 2 β d β + ∫ ω / c + ∞ Im ( r j ) 2 e − 2 Im ( γ 0 ) d | 1 − r j 2 e − 2 Im ( γ 0 ) d | 2 β d β ,
+	
+where j denotes the polarization, ω ω is the frequency, β β is the lateral wavenumber, c is the speed of light, Θ ( ω , 𝑇 ) = ℏ ω / ( exp   ( ℏ ω / 𝑘 𝐵 𝑇 ) − 1 ) Θ ( ω , T ) = ℏ ω / ( exp   ( ℏ ω / k B T ) − 1 ) is the mean energy of the Planck oscillator at the temperature T , ℏ ℏ is the reduced Planck constant, 𝑘 𝐵 k B is the Boltzmann constant, T H and T L , respectively, are the temperatures of the hot and the cold films,   𝑟 𝑗   r j is the Fresnel reflection coefficient incident from the vacuum to the film in j-polarization, d is the gap, and γ 0 γ 0 is the wavenumber perpendicular to the film surface in the gap. The second term of the exchange function, which corresponds to the evanescent wave, increases with decreasing the gap. The calculated heat fluxes between SiO 2 films and between SiC films are, respectively, plotted in Fig. 1 , by using the permittivities reported in Refs. 35 35. R. Kitamura, L. Pilon, and M. Jonasz, Appl. Opt. 46 , 8118 (2007). https://doi.org/10.1364/AO.46.008118 and 36 36. D. Olego and M. Cardona, Phys. Rev. B 25 , 3889 (1982). https://doi.org/10.1103/PhysRevB.25.3889 . To take advantage of the unique characteristics of near-field radiative heat transfer, the parasitic heat conduction across the gap needs to be suppressed. We assume that the gap is filled with a spacer material and calculate the heat conductions through such materials with several thermal conductivities, as shown in Fig. 1 . A material with thermal conductivity lower than 10 −5  W m −1 K −1 is required to suppress the parasitic conduction to the radiative transfer or less. The required conductivity is three orders of magnitude less than the thermal conductivity of an architectural fabric for thermal insulation (typically around 0.02 W m −1 K −1 (Ref. 37 37. A. M. Papadopoulos, Energy Build. 37 , 77 (2005). https://doi.org/10.1016/j.enbuild.2004.05.006 )). Thus, such a low conductivity is not sought for by choosing an appropriate spacer material but by engineering the pillar structures of low density. The film surface differs from the ideal flat condition in reality, by the presence of thermal stress, residual stress, or bow and warp of the wafer, to name a few. To compensate such nonideality and to realize a uniform gap, we exert a pressure from the top of a diced substrate stack as illustrated in Fig. 2(a) . The pillars are expected to be tolerant to the applied pressure, thus the compressive strength of the pillar material should be large. We choose fused quartz for the moderately low thermal conductivity and the large compressive strength. Fused quartz has extra advantages such as surface resonance in the midinfrared, matured polishing technologies to obtain the flat surface, and availability of high-purity samples.
+figure
+FIG. 2. Manufactured substrates and measurement apparatus. (a) Illustration of the manufactured substrates. Unit: mm. (b) SEM images of the manufactured pillars with heights of 0.5  μ m, 1.0  μ m, and 2.0  μ m. Scale bar: 5  μ m. The bottom-right image in (b) shows the pillar after gap formation, and the damage on the top of the pillar is slight. (c) Schematics of the measurement apparatus. (d) Photograph of the apparatus.
+
+    PPT
+    |
+    High-resolution 
+
+The pillars are manufactured by the conventional micromachining processes on high-purity fused quartz substrates. A deep-ultraviolet contact photolithography and wet-etching with buffered hydrofluoric acid allow us to obtain trapezoidal pillars with controlled heights and densities, as depicted in Fig. 2(b) . The rate of the wet-etch is calibrated at 23 °C to manufacture the pillars with three different heights. Dummy patterns are implemented for height measurements by a stylus profiler (KLA-Tencor, P-6) and measured to be 0.50  μ m, 0.99  μ m, and 1.98  μ m. The pillars are placed at intervals of 1 mm, thus the dilution rate of the spacer material is 0.8 × 10 −5 when 2  μ m height pillars of 2  μ m × 2  μ m in the top area are used. The pressure applied to the top of the pillars is around 800 MPa with the exertion of a 1 N force, which is smaller than the compression strength of fused quartz (1.1 GPa). Due to the small pillar density, the chance of the interference between the pillars on the upper and the lower substrates is negligible. The substrate is diced into 19 mm × 8.6 mm to fit the measurement apparatus. The flatness of the diced substrates is evaluated by a 3D optical surface profiler (Zygo, NewView 5022). The substrates are locally smooth (Ra = 0.5 nm) and globally bending ( ± 200   nm ± 200   nm ). We simulate the global deformation of the substrate by using a commercial finite element method (FEM) simulator (COMSOL Multiphysics) and find that the applied force of 1 N is enough to compensate the intrinsic global bending. The local distortion between pillars is simulated to be as small as 10 nm under a 1 N force, thanks to the thick substrates (600  μ m).
+The apparatus utilized in Ref. 38 38. K. Ito, N. Kazutaka, H. Iizuka, and H. Toshiyoshi, Appl. Phys. Lett. 105 , 253503 (2014). https://doi.org/10.1063/1.4905132 , which was designed to evaluate the radiative heat flux between two parallel plates in the far-field regime, is redesigned for this study as shown in Figs. 2(c) and 2(d) . The heat flux from the heater to the thermoelectric device is measured by the heat flux sensor based on thermopiles (Concept Engineering, FM-060). The output voltage is linear to the temperature difference between the top and the bottom of the sensor plate. The temperature of the thermocouples, T H and T L , is controlled by the heater and the thermoelectric device to enable a steady-state measurement. The apparatus is evacuated to an environmental pressure of lower than 5 × 10 −3  Pa by a turbo molecular pump, thus the conductive transfer through rarefied air is negligible as inferred from Fig. 1 . For the correct evaluation of the heat transfer, the sensitivity of the heat flux sensor is calibrated by utilizing the radiative heat flux between fused quartz substrates in the far-field regime, as reported in Ref. 38 38. K. Ito, N. Kazutaka, H. Iizuka, and H. Toshiyoshi, Appl. Phys. Lett. 105 , 253503 (2014). https://doi.org/10.1063/1.4905132 . As for further calibration of the apparatus, thermal series resistance (R S ), which corresponds to the temperature drop between the thermocouple and the substrate surface, is evaluated to characterize the measurement target (R T ), which is the thermal resistance between the two substrate surfaces (Fig. 4(c) ). We measured the heat flux through a single substrate to evaluate R S , which is retrieved to be 4 × 10 −3 m 2 KW −1 for the measurement condition. To exert and monitor the force, a compression spring and a load cell are installed. Two extension springs with relatively weak spring constant are installed on the side to realize a soft landing of the gap. For the evaluation of the gap, we utilize an optical fiber (Ocean optics, FL-400) to implement the optical interferometry in our apparatus. The incident white light and the reflected light propagate through the same fiber, which is realized by an optical setup with lenses and a half-mirror. Four holes are opened through the copper heat spreader as shown in Fig. 3 to sequentially insert the fiber.
+figure
+FIG. 3. Optical interferometry. Hole positions for the fiber on the copper heat spreader are shown. Representative measured spectra with each gap value are shown in the black lines. Calculated reflection spectra with estimated gap values are shown in the blue dotted lines.
+
+    PPT
+    |
+    High-resolution 
+
+Typical spectra obtained by the optical interferometry are shown in the black curves in Fig. 3 . Dips and peaks in the envelope are seen. The calculated reflection spectra by the Fabry-Perot equation are also shown in Fig. 3 . The position of dips and peaks agrees well between the measured and the calculated spectra. The variation of the estimated gap values at the four holes is evaluated to be smaller than 100 nm by the standard deviation, which indicates a uniform gap without the inclusion of dust particles. The gap is slightly smaller than the pillar height possibly because of the deformation of the pillar top as seen in the lower right SEM image of Fig. 2(b) .
+Radiative heat transfer across the gap is evaluated in a steady-state condition. Temperature biases of 5 K, 10 K, 15 K, and 20 K are applied between two thermocouples while T L is kept at 293 K. The output voltage of the heat flux sensor is monitored and is converted to heat flux using the calibrated sensitivity. The temperature difference between two substrate surfaces ΔT is calculated from the heat flux and R S . The relationship between ΔT and the heat flux is plotted in Fig. 4(a) with theoretically calculated heat fluxes. In this small temperature range, the relationship between ΔT and the heat flux is approximated as linear, and the slope is treated as the heat flux coefficient in the following discussion. The heat flux coefficients from the measurements, which are repeated four times for each nominal gap, are shown in red dots in Fig. 4(b) . It is clear that the measured heat transfer coefficients are almost equal to or smaller than twice of the theoretical prediction, which indicates that we suppress the parasitic spacer conduction to be not greater than the radiative heat transfer.
+figure
+FIG. 4. Measured heat transfer. (a) Measured heat flux against the temperature difference between two substrate surfaces shown as circles. Theoretical predictions are shown in the dashed lines. (b) Measured heat transfer coefficients (HTCs) shown as red dots. Inset: close-up view of the error bar. The error bar in the x direction denotes the standard deviation of the optical interferometry at the four points. The error bar in the y direction denotes the standard deviation of the heat flux measurement. The green circles denote the median measured points subtracted by the modeled thermal conductance through pillars. (c) Equivalent thermal circuit model between two thermocouples. (d) Geometry used for the FEM simulation for R G at a 2  μ m gap. The regions correspond to R C and R G are colored. (e) Modeled thermal resistance of one pillar.
+
+    PPT
+    |
+    High-resolution 
+
+Finally, we modeled the heat transfer between two surfaces using an equivalent thermal circuit model shown in Fig. 4(c) . The equivalent circuit consists of the radiative resistance R R , the geometrical resistance of the pillar R G , and the contact resistance between the pillar top and the surface of the opposing substrate R C . The geometrical resistance is simulated by FEM, using the geometrical parameters of the trapezoidal pillar retrieved from SEM image as shown in Fig. 4(d) . The contact resistance has been reported to vary on the material hardness, surface roughness, pressures, and so on, 39 39. E. G. Wolff and D. A. Schneider, Int. J. Heat Mass Transfer 41 , 3469 (1998). https://doi.org/10.1016/S0017-9310(98)00067-2 thus it is used as a fitting parameter. The resulting thermal contact resistance per area is 4 × 10 −6 m 2 KW −1 , which is in the same order of magnitude as the reported thermal contact resistance of the micro-mechanically actuated films. 40 40. W. B. Song, M. S. Sutton, and J. J. Talghader, Appl. Phys. Lett. 81 , 1216 (2002). https://doi.org/10.1063/1.1499518 The geometrical and contact resistances for one pillar are shown in Fig. 4(e) . The contact resistance is larger than the geometrical resistance, thus the contact resistance plays a key role in the parasitic suppression. The modeled radiative transfer, which corresponds to R R , is retrieved from the measured heat transfer coefficient by subtracting the modeled pillar conduction, as shown in the green circles in Fig. 4(b) . The agreement between the modeled radiative heat transfer and the theoretical prediction verifies the validity of our measurement and modeling. Furthermore, the model suggests further optimization of the pillars to suppress the pillar conduction; minimizing the top area of the pillar may help us to increase the contact resistance.
+In conclusion, we formed a submicron gap with the micromachined pillars made of fused quartz, and the gap was validated to be uniform by the optical interferometry. The heat transfer across the gap was measured and modeled, and the parasitic pillar conduction was suppressed to be below the amount of the radiative heat transfer. The further optimization of the pillars based on the equivalent thermal circuit model will eliminate the parasitic heat conduction. This gap formation and evaluation methodology can be applicable to other thermal sources including waste heat, and open prospects for the experimental research and development in the field of near-field radiative heat transfer.
+Authors would like to thank T. Matsui, H. Funabashi, H. Fujikawa, T. Tani, H. Narita, K. Misawa, L. Jalabert, and H. Fujita for fruitful discussions. Authors also would like to thank clean room staffs of Toyota CRDL including S. Iwasaki, I. Takahashi, and M. Kodama for technical support.
+REFERENCES
+
+    1. D. Polder and M. Van Hove, Phys. Rev. B 4 , 3303 (1971). https://doi.org/10.1103/PhysRevB.4.3303 , Google Scholar Crossref
+    2. A. Narayanaswamy and G. Chen, Appl. Phys. Lett. 82 , 3544 (2003). https://doi.org/10.1063/1.1575936 , Google Scholar Scitation , ISI
+    3. M. Laroche, R. Carminati, and J.-J. Greffet, J. Appl. Phys. 100 , 063704 (2006). https://doi.org/10.1063/1.2234560 , Google Scholar Scitation , ISI
+    4. K. Park, S. Basu, W. P. King, and Z. M. Zhang, J. Quant. Spectrosc. Radiat. Transfer 109 , 305 (2008). https://doi.org/10.1016/j.jqsrt.2007.08.022 , Google Scholar Crossref
+    5. M. Francoeur, R. Vaillon, and M. P. Menguc, IEEE Trans. Energy Convers. 26 , 686 (2011). https://doi.org/10.1109/TEC.2011.2118212 , Google Scholar Crossref
+    6. C. R. Otey, W. T. Lau, and S. Fan, Phys. Rev. Lett. 104 , 154301 (2010). https://doi.org/10.1103/PhysRevLett.104.154301 , Google Scholar Crossref
+    7. S. Basu and M. Francoeur, Appl. Phys. Lett. 98 , 113106 (2011). https://doi.org/10.1063/1.3567026 , Google Scholar Scitation , ISI
+    8. H. Iizuka and S. Fan, J. Appl. Phys. 112 , 024304 (2012). https://doi.org/10.1063/1.4737465 , Google Scholar Scitation , ISI
+    9. L. P. Wang and Z. M. Zhang, Nanoscale Microscale Thermophys. Eng. 17 , 337 (2013). https://doi.org/10.1080/15567265.2013.776154 , Google Scholar Crossref
+    10. Y. Yang, S. Basu, and L. Wang, Appl. Phys. Lett. 103 , 163101 (2013). https://doi.org/10.1063/1.4825168 , Google Scholar Scitation , ISI
+    11. H. Iizuka and S. Fan, J. Quant. Spectrosc. Radiat. Transfer 148 , 156– 164 (2014). https://doi.org/10.1016/j.jqsrt.2014.07.007 , Google Scholar Crossref
+    12. L. Zhu, C. R. Otey, and S. Fan, Appl. Phys. Lett. 100 , 044104 (2012). https://doi.org/10.1063/1.3679694 , Google Scholar Scitation
+    13. S. A. Biehs, F. S. S. Rosa, and P. Ben-Abdallah, Appl. Phys. Lett. 98 , 243102 (2011). https://doi.org/10.1063/1.3596707 , Google Scholar Scitation , ISI
+    14. L. Cui, Y. Huang, J. Wang, and K. Y. Zhu, Appl. Phys. Lett. 102 , 053106 (2013). https://doi.org/10.1063/1.4790292 , Google Scholar Scitation , ISI
+    15. Y. Huang, S. V. Boriskina, and G. Chen, Appl. Phys. Lett. 105 , 244102 (2014). https://doi.org/10.1063/1.4904456 , Google Scholar Scitation , ISI
+    16. P. Ben-Abdallah and S. A. Biehs, Phys. Rev. Lett. 112 , 044301 (2014). https://doi.org/10.1103/PhysRevLett.112.044301 , Google Scholar Crossref
+    17. A. Narayanaswamy, S. Shen, and G. Chen, Phys. Rev. B 78 , 115303 (2008). https://doi.org/10.1103/PhysRevB.78.115303 , Google Scholar Crossref
+    18. S. Shen, A. Narayanaswamy, and G. Chen, Nano Lett. 9 , 2909 (2009). https://doi.org/10.1021/nl901208v , Google Scholar Crossref
+    19. E. Rousseau, A. Siria, G. Jourdan, S. Volz, F. Comin, J. Chevrier, and J.-J. Greffet, Nat. Photonics 3 , 514 (2009). https://doi.org/10.1038/nphoton.2009.144 , Google Scholar Crossref
+    20. P. J. van Zwol, L. Ranno, and J. Chevrier, Phys. Rev. Lett. 108 , 234301 (2012). https://doi.org/10.1103/PhysRevLett.108.234301 , Google Scholar Crossref
+    21. B. Guha, C. Otey, C. B. Poitras, S. Fan, and M. Lipson, Nano Lett. 12 , 4546 (2012). https://doi.org/10.1021/nl301708e , Google Scholar Crossref
+    22. S. Shen, A. Narayanaswamy, S. Goh, and G. Chen, Appl. Phys. Lett. 92 , 063509 (2008). https://doi.org/10.1063/1.2829999 , Google Scholar Scitation
+    23. J. Shi, P. Li, B. Liu, and S. Shen, Appl. Phys. Lett. 102 , 183114 (2013). https://doi.org/10.1063/1.4804631 , Google Scholar Scitation , ISI
+    24. J. Shi, B. Liu, P. Li, L. Y. Ng, and S. Shen, Nano Lett. 15 , 1217– 1221 (2015). https://doi.org/10.1021/nl504332t , Google Scholar Crossref
+    25. R. St-Gelais, B. Guha, L. Zhu, S. Fan, and M. Lipson, Nano Lett. 14 , 6971 (2014). https://doi.org/10.1021/nl503236k , Google Scholar Crossref
+    26. Y. De Wilde, F. Formanek, R. Carminati, B. Gralak, P. A. Lemoine, K. Joulain, J. P. Mulet, Y. Chen, and J. J. Greffet, Nature 444 , 740– 743 (2006). https://doi.org/10.1038/nature05265 , Google Scholar Crossref
+    27. C. M. Hargreaves, Phys. Lett. A 30 , 491 (1969). https://doi.org/10.1016/0375-9601(69)90264-3 , Google Scholar Crossref
+    28. R. S. Ottens, V. Quetschke, S. Wise, A. A. Alemi, R. Lundock, G. Mueller, D. H. Reitze, D. B. Tanner, and B. F. Whiting, Phys. Rev. Lett. 107 , 014301 (2011). https://doi.org/10.1103/PhysRevLett.107.014301 , Google Scholar Crossref
+    29. T. Kralik, P. Hanzelka, V. Musilova, A. Srnka, and M. Zobac, Rev. Sci. Instrum. 82 , 055106 (2011). https://doi.org/10.1063/1.3585985 , Google Scholar Scitation , ISI
+    30. T. Kralik, P. Hanzelka, M. Zobac, V. Musilova, T. Fort, and M. Horak, Phys. Rev. Lett. 109 , 224302 (2012). https://doi.org/10.1103/PhysRevLett.109.224302 , Google Scholar Crossref
+    31. R. S. DiMatteo, P. Greiff, S. L. Finberg, K. Young-Waithe, H. K. H. Choy, M. M. Masaki, and C. G. Fonstad, Appl. Phys. Lett. 79 , 1894 (2001). https://doi.org/10.1063/1.1400762 , Google Scholar Scitation , ISI
+    32. R. DiMatteo, P. Greiff, D. Seltzer, D. Meulenberg, E. Brown, E. Carlen, K. Kaiser, S. Finberg, H. Nguyen, J. Azarkevich, P. Baldasaro, J. Beausang, L. Danielson, M. Dashiell, D. DePoy, H. Ehsani, W. Topper, K. Rahner, and R. Siergiej, AIP Conf. Proc. 653 , 232 (2003). https://doi.org/10.1063/1.1539379 , Google Scholar Scitation
+    33. L. Hu, A. Narayanaswamy, X. Chen, and G. Chen, Appl. Phys. Lett. 92 , 133106 (2008). https://doi.org/10.1063/1.2905286 , Google Scholar Scitation , ISI
+    34. C. J. Fu and Z. M. Zhang, Int. J. Heat Mass Transfer 49 , 1703– 1718 (2006). https://doi.org/10.1016/j.ijheatmasstransfer.2005.09.037 , Google Scholar Crossref
+    35. R. Kitamura, L. Pilon, and M. Jonasz, Appl. Opt. 46 , 8118 (2007). https://doi.org/10.1364/AO.46.008118 , Google Scholar Crossref
+    36. D. Olego and M. Cardona, Phys. Rev. B 25 , 3889 (1982). https://doi.org/10.1103/PhysRevB.25.3889 , Google Scholar Crossref
+    37. A. M. Papadopoulos, Energy Build. 37 , 77 (2005). https://doi.org/10.1016/j.enbuild.2004.05.006 , Google Scholar Crossref
+    38. K. Ito, N. Kazutaka, H. Iizuka, and H. Toshiyoshi, Appl. Phys. Lett. 105 , 253503 (2014). https://doi.org/10.1063/1.4905132 , Google Scholar Scitation , ISI
+    39. E. G. Wolff and D. A. Schneider, Int. J. Heat Mass Transfer 41 , 3469 (1998). https://doi.org/10.1016/S0017-9310(98)00067-2 , Google Scholar Crossref
+    40. W. B. Song, M. S. Sutton, and J. J. Talghader, Appl. Phys. Lett. 81 , 1216 (2002). https://doi.org/10.1063/1.1499518 , Google Scholar Scitation 
+
+    © 2015 AIP Publishing LLC.
+
+Resources
+
+    AUTHOR
+    LIBRARIAN
+    ADVERTISER
+
+General Information
+
+    ABOUT
+    CONTACT
+    HELP
+
+ 
+
+    PRIVACY POLICY
+    TERMS OF USE
+    FOLLOW AIP PUBLISHING:
+
+Website © 2021 AIP Publishing LLC. Article copyright remains as specified within the article.
+Scitation logo
+
+PDF Help
+x

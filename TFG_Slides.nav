@@ -7,61 +7,97 @@
 \headcommand {\sectionentry {1}{Introducción}{3}{Introducción}{0}}
 \headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\slideentry {1}{0}{2}{4/6}{}{0}}
-\headcommand {\beamer@framepages {4}{6}}
-\headcommand {\beamer@sectionpages {3}{6}}
-\headcommand {\beamer@subsectionpages {3}{6}}
-\headcommand {\sectionentry {2}{Estado del arte}{7}{Estado del arte}{0}}
-\headcommand {\slideentry {2}{0}{1}{7/7}{}{0}}
-\headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {2}{0}{2}{8/8}{}{0}}
-\headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@sectionpages {7}{8}}
-\headcommand {\beamer@subsectionpages {7}{8}}
-\headcommand {\sectionentry {3}{Materiales y herramientas}{9}{Materiales y herramientas}{0}}
-\headcommand {\slideentry {3}{0}{1}{9/9}{}{0}}
+\headcommand {\slideentry {1}{0}{2}{4/8}{}{0}}
+\headcommand {\beamer@framepages {4}{8}}
+\headcommand {\beamer@sectionpages {3}{8}}
+\headcommand {\beamer@subsectionpages {3}{8}}
+\headcommand {\sectionentry {2}{Estado del arte}{9}{Estado del arte}{0}}
+\headcommand {\slideentry {2}{0}{1}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {3}{0}{2}{10/10}{}{0}}
+\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{10}{Termo-fotovoltaica}}
+\headcommand {\slideentry {2}{1}{1}{10/10}{Termo-fotovoltaica}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@sectionpages {9}{10}}
-\headcommand {\beamer@subsectionpages {9}{10}}
-\headcommand {\sectionentry {4}{Métodos}{11}{Métodos}{0}}
-\headcommand {\slideentry {4}{0}{1}{11/11}{}{0}}
-\headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {4}{0}{2}{12/12}{}{0}}
-\headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@sectionpages {11}{12}}
-\headcommand {\beamer@subsectionpages {11}{12}}
-\headcommand {\sectionentry {5}{Resultados y discusión}{13}{Resultados y discusión}{0}}
-\headcommand {\slideentry {5}{0}{1}{13/13}{}{0}}
+\headcommand {\slideentry {2}{1}{2}{11/12}{Termo-fotovoltaica}{0}}
+\headcommand {\beamer@framepages {11}{12}}
+\headcommand {\beamer@subsectionpages {10}{12}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{13}{Campo cercano}}
+\headcommand {\slideentry {2}{2}{1}{13/13}{Campo cercano}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {5}{0}{2}{14/14}{}{0}}
+\headcommand {\slideentry {2}{2}{2}{14/14}{Campo cercano}{0}}
 \headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@sectionpages {9}{14}}
 \headcommand {\beamer@subsectionpages {13}{14}}
-\headcommand {\beamer@subsectionentry {0}{5}{1}{15}{nTPV Si-SiO2-Si}}
-\headcommand {\slideentry {5}{1}{1}{15/15}{nTPV Si-SiO2-Si}{0}}
+\headcommand {\sectionentry {3}{Materiales y herramientas}{15}{Materiales y herramientas}{0}}
+\headcommand {\slideentry {3}{0}{1}{15/15}{}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {5}{1}{2}{16/16}{nTPV Si-SiO2-Si}{0}}
+\headcommand {\slideentry {3}{0}{2}{16/16}{}{0}}
 \headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@sectionpages {15}{16}}
 \headcommand {\beamer@subsectionpages {15}{16}}
-\headcommand {\beamer@subsectionentry {0}{5}{2}{17}{nTPV Si-SiO2-Ge}}
-\headcommand {\slideentry {5}{2}{1}{17/17}{nTPV Si-SiO2-Ge}{0}}
+\headcommand {\sectionentry {4}{Métodos}{17}{Métodos}{0}}
+\headcommand {\slideentry {4}{0}{1}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {5}{2}{2}{18/18}{nTPV Si-SiO2-Ge}{0}}
+\headcommand {\slideentry {4}{0}{2}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@sectionpages {13}{18}}
+\headcommand {\beamer@sectionpages {17}{18}}
 \headcommand {\beamer@subsectionpages {17}{18}}
-\headcommand {\sectionentry {6}{Conclusiones}{19}{Conclusiones}{0}}
-\headcommand {\slideentry {6}{0}{1}{19/19}{}{0}}
+\headcommand {\sectionentry {5}{Resultados y discusión}{19}{Resultados y discusión}{0}}
+\headcommand {\slideentry {5}{0}{1}{19/19}{}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {6}{0}{2}{20/20}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{20/20}{}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {6}{0}{3}{21/21}{}{0}}
+\headcommand {\beamer@subsectionpages {19}{20}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{21}{nTPV Si-SiO2-Si}}
+\headcommand {\slideentry {5}{1}{1}{21/21}{nTPV Si-SiO2-Si}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@sectionpages {19}{21}}
-\headcommand {\beamer@subsectionpages {19}{21}}
-\headcommand {\beamer@partpages {1}{22}}
-\headcommand {\beamer@subsectionpages {22}{22}}
-\headcommand {\beamer@sectionpages {22}{22}}
-\headcommand {\beamer@documentpages {22}}
-\headcommand {\gdef \inserttotalframenumber {20}}
+\headcommand {\slideentry {5}{1}{2}{22/24}{nTPV Si-SiO2-Si}{0}}
+\headcommand {\beamer@framepages {22}{24}}
+\headcommand {\beamer@subsectionpages {21}{24}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{25}{nTPV Si-SiO2-Ge}}
+\headcommand {\slideentry {5}{2}{1}{25/25}{nTPV Si-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {5}{2}{2}{26/28}{nTPV Si-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {26}{28}}
+\headcommand {\beamer@subsectionpages {25}{28}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{29}{nTPV SS-SiO2-Ge}}
+\headcommand {\slideentry {5}{3}{1}{29/29}{nTPV SS-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {5}{3}{2}{30/30}{nTPV SS-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@subsectionpages {29}{30}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{31}{nTPV SiC-SiO2-Ge}}
+\headcommand {\slideentry {5}{4}{1}{31/31}{nTPV SiC-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {5}{4}{2}{32/32}{nTPV SiC-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsectionpages {31}{32}}
+\headcommand {\beamer@subsectionentry {0}{5}{5}{33}{Densidad de carga}}
+\headcommand {\slideentry {5}{5}{1}{33/33}{Densidad de carga}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {5}{5}{2}{34/34}{Densidad de carga}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsectionpages {33}{34}}
+\headcommand {\beamer@subsectionentry {0}{5}{6}{35}{Nano-espaciadore de Si}}
+\headcommand {\slideentry {5}{6}{1}{35/35}{Nano-espaciadore de Si}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {5}{6}{2}{36/36}{Nano-espaciadore de Si}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@sectionpages {19}{36}}
+\headcommand {\beamer@subsectionpages {35}{36}}
+\headcommand {\sectionentry {6}{Conclusiones}{37}{Conclusiones}{0}}
+\headcommand {\slideentry {6}{0}{1}{37/37}{}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {6}{0}{2}{38/38}{}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@subsectionpages {37}{38}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{39}{Desarrollos a futuro}}
+\headcommand {\slideentry {6}{1}{1}{39/39}{Desarrollos a futuro}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@sectionpages {37}{39}}
+\headcommand {\beamer@subsectionpages {39}{39}}
+\headcommand {\beamer@partpages {1}{40}}
+\headcommand {\beamer@subsectionpages {40}{40}}
+\headcommand {\beamer@sectionpages {40}{40}}
+\headcommand {\beamer@documentpages {40}}
+\headcommand {\gdef \inserttotalframenumber {31}}

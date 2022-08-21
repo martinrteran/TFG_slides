@@ -7,9 +7,9 @@
 \beamer@sectionintoc {4}{Métodos}{17}{0}{4}
 \beamer@sectionintoc {5}{Resultados y discusión}{19}{0}{5}
 \beamer@subsectionintoc {5}{1}{nTPV Si-SiO2-Si}{21}{0}{5}
-\beamer@subsectionintoc {5}{2}{nTPV Si-SiO2-Ge}{25}{0}{5}
-\beamer@subsectionintoc {5}{3}{nTPV SS-SiO2-Ge}{29}{0}{5}
-\beamer@subsectionintoc {5}{4}{nTPV SiC-SiO2-Ge}{31}{0}{5}
-\beamer@subsectionintoc {5}{5}{Densidad de carga}{33}{0}{5}
-\beamer@subsectionintoc {5}{6}{Nano-espaciadore de Si}{35}{0}{5}
-\beamer@sectionintoc {6}{Conclusiones}{37}{0}{6}
+\beamer@subsectionintoc {5}{2}{nTPV Si-SiO2-Ge}{26}{0}{5}
+\beamer@subsectionintoc {5}{3}{nTPV SS-SiO2-Ge}{30}{0}{5}
+\beamer@subsectionintoc {5}{4}{nTPV SiC-SiO2-Ge}{34}{0}{5}
+\beamer@subsectionintoc {5}{5}{Densidad de carga}{37}{0}{5}
+\beamer@subsectionintoc {5}{6}{Nano-espaciadore de Si}{39}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones}{41}{0}{6}

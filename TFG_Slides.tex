@@ -26,6 +26,7 @@
 \usepackage{hyperref}
 \usepackage{nameref}
 \usepackage{graphicx}
+\usepackage{rotating}
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{caption}
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{subcaption}
 
@@ -294,7 +295,7 @@
 	
 	\subsection{nTPV Si-SiO2-Si}
 	\begin{frame}{nTPV Si-SiO2-Si}
-		\only<1-2>{ %%%   CONDUCCION
+		\only<1>{ %%%   CONDUCCION
 			\frametitle{Conducción}
 			\resCondPath
 			\begin{columns}
@@ -306,7 +307,7 @@
 					\begin{figure}%
 							\centering
 							\begin{subfigure}[b]{0.9\columnwidth}
-									\includegraphics[width=\textwidth]{Ppor_SiSiO2Si}
+									\includegraphics[width=\textwidth]{Pn_SiSiO2Si}
 							\end{subfigure}\hfill \vfill
 							\begin{subfigure}[b]{0.8\columnwidth}
 									\includegraphics[width=\textwidth]{SiSiO2Si_1000nm_Plane}%
@@ -330,6 +331,25 @@
 				\label{fig:SiSiO2Si_condRc}%
 			\end{figure}
 			\end{columns}			
+		}
+		\only<2>{
+			\frametitle{Conducción: Efectos de la porosidad}
+			\resCondPath
+			\begin{columns}
+			\column{.55\textwidth}
+			
+			\begin{figure}[t]
+				\centering
+					\includegraphics[width=1.00\columnwidth]{Ppor_SiSiO2Si}
+				\label{fig:Ppor_SiSiO2Si}
+			\end{figure}
+			
+			\column{.45\textwidth}
+			\begin{block}{Módelo analítico}
+			 \centering 
+				\itshape $P(d,\rho)=- \frac{  16.47\cdot \rho-11.03 }{d-106.80\cdot \rho +74.68}$
+			\end{block}
+			\end{columns}
 		}
 		%%%  RADIACION
 		\only<3>{
@@ -364,7 +384,7 @@
 		}
 		%%%  DENSIDADES DE NANO-ESPACIADORES
 		\only<4>{
-			\frametitle{Densidades para $E>1.1eV$}
+			\frametitle{Densidades de nano-espaciadores ({\small $n^{\circ}esp/cm^2$}) y {\small $E>1.1eV$}}
 			\resRelPath
 			\begin{columns}
 			%%
@@ -415,7 +435,7 @@
 						\vfill
 						%%
 				\column{.5\textwidth}
-					\vspace{-10pt}
+					\vspace{-15pt}
 						\begin{block}{\centering En el rango de $E>0.7eV$}
 							\end{block}
 					\vspace{10pt}
@@ -460,45 +480,212 @@
 		}
 		%%%  DENSIDADES DE NANO-ESPACIADORES
 		\only<3>{
-			\frametitle{Densidades para $E>0.7eV$}
+			\frametitle{Densidades de nano-espaciadores ($n^{\circ}esp/cm^2$)}
 			\resRelPath
 			\begin{columns}
 			%%
 				\column{.5\textwidth}
-					%\vspace{-1cm}
+					\vspace{-.3cm}
 						\begin{block}{\centering Sin Rc}
 						\end{block}
-					\vspace{10pt}
+					\vspace{0pt}
+					\begin{minipage}[l]{.1\columnwidth}
+							\begin{turn}{90}
+							\begin{minipage}[t]{80pt}
+								\begin{block}{\centering Rango $E>0.7eV$}
+								\end{block}
+							\end{minipage}
+							\end{turn}
+					\end{minipage}\hfill
+					\begin{minipage}[r]{.9\columnwidth}
 						\begin{figure}[h]%
-								\centering
-										\includegraphics[width=\columnwidth]{SiGe}
+								\flushright
+										\includegraphics[width=0.8\columnwidth]{SiGe}
 								\label{fig:SiSiO2Ge_rel}%Pn_SiCSiO2Ge
 						\end{figure}
-						\vfill
-						%%
+						\end{minipage}\hfill \vfill
+						%%%%%%%%%%%%%%%%%%%%%%%%%
+						\begin{minipage}[l]{.1\columnwidth}
+							\begin{turn}{90}
+							\begin{minipage}[t]{80pt}
+								\begin{block}{\centering Rango completo}
+								\end{block}
+							\end{minipage}
+							\end{turn}
+					\end{minipage}\hfill
+					\begin{minipage}[r]{.9\columnwidth}
+						\begin{figure}[h]%
+								\flushright
+										\includegraphics[width=0.8\columnwidth]{SiGe_full}
+								\label{fig:SiSiO2Ge_relfull}%Pn_SiCSiO2Ge
+						\end{figure}
+						\end{minipage}
+						\hfill \vfill
+						%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
 				\column{.5\textwidth}
-					\vspace{-12pt}
+					\vspace{-10pt}
 						\begin{block}{\centering Con Rc}
 							\end{block}
-					\vspace{10pt}
+					\vspace{0pt}
+					\begin{minipage}[c]{.9\columnwidth}
 						\begin{figure}[h]%
 								\centering
-										\includegraphics[width=\columnwidth]{SiGe_Rc}%
+										\includegraphics[width=0.81\columnwidth]{SiGe_Rc}%
 								\label{fig:SiSiO2Ge_relRc}%
 						\end{figure}
-						\vfill
+						\end{minipage}
+						\hfill \vfill
+						\begin{minipage}[c]{.9\columnwidth}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=0.81\columnwidth]{SiGe_Rc_full}
+								\label{fig:SiSiO2Ge_relfullRc}%Pn_SiCSiO2Ge
+						\end{figure}
+						\end{minipage}
 				\end{columns}		
 		}
 	\end{frame}
 	
 	\subsection{nTPV SS-SiO2-Ge}
-	\begin{frame}{nTPV SS-SiO2-Ge}
-	
+		\begin{frame}{nTPV SS-SiO2-Ge}
+	\only<1>{ %%%   CONDUCCION
+			\frametitle{Conducción}
+			\resCondPath
+			\begin{figure}[h]%
+				\centering
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=0.8\textwidth]{Pn_SsSiO2Ge}%
+				\end{subfigure}\hfill
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=.8\textwidth]{Prc_SsSiO2Ge_Emp}%
+				\end{subfigure}\hfill
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=.8\textwidth]{Prc_SsSiO2Ge_Inter}%
+				\end{subfigure}\hfill
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=.8\textwidth]{Prc_SsSiO2Ge_Max}%
+				\end{subfigure}
+			\label{}%
+			\end{figure}					
+		}
+		%%%  RADIACION
+		\only<2>{
+			\frametitle{Radiación}
+			\resRadPath
+			\begin{columns}
+			%%
+				\column{.5\textwidth}
+					%\vspace{-10pt}
+						\begin{block}{\centering Por longitud de onda}
+						\end{block}
+					\vspace{15pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{SsGe}
+								\label{fig:SsSiO2Ge_rad}%Pn_SiCSiO2Ge
+						\end{figure}
+						\vfill
+						%%
+				\column{.5\textwidth}
+					\vspace{-10pt}
+						\begin{block}{\centering En el rango de $E>0.7eV$}
+							\end{block}
+					\vspace{10pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{p_Eg_SsGe}%
+								\label{fig:SsSiO2Ge_radInt}%
+						\end{figure}
+						\vfill
+				\end{columns}		
+		}	
+		\only<3>{
+			\frametitle{Densidades de nano-espaciadores para $E>0.7eV$}
+			\resRelPath
+			\vspace{-5pt}
+			\begin{figure}[h]%
+				\centering
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=0.8\textwidth]{SS}%
+				\end{subfigure}\hfill
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=.8\textwidth]{SS_Rc_empirico}%
+				\end{subfigure}\hfill
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=.8\textwidth]{SS_Rc_Intermedio}%
+				\end{subfigure}\hfill
+				\begin{subfigure}[b]{0.48\textwidth}\centering
+					\includegraphics[width=.8\textwidth]{SS_Rc}%
+				\end{subfigure}
+			\label{SsSiO2Ge_rel}%
+			\end{figure}	
+		}
+		
 	\end{frame}
 	
 	\subsection{nTPV SiC-SiO2-Ge}
 	\begin{frame}{nTPV SiC-SiO2-Ge}
-	
+		\only<1>{ %%%   CONDUCCION
+			\frametitle{Conducción}
+			\resCondPath
+			\begin{columns}
+			%%
+				\column{.5\textwidth}
+					%\vspace{-10pt}
+						\begin{block}{\centering Sin Rc}
+						\end{block}
+					\vspace{15pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{Pn_SiCSiO2Ge}
+								\label{fig:SiCSiO2Ge_cond}%Pn_SiCSiO2Ge
+						\end{figure}
+						\vfill
+						%%
+				\column{.5\textwidth}
+					\vspace{-15pt}
+						\begin{block}{\centering En el rango de $E>0.7eV$}
+							\end{block}
+					\vspace{10pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{Prc_SiCSiO2Ge}%
+								\label{fig:SiCSiO2Ge_condRc}%
+						\end{figure}
+						\vfill
+				\end{columns}							
+		}
+		%%%  RADIACION
+		\only<2>{
+			\frametitle{Radiación}
+			\resRadPath
+			\begin{columns}
+			%%
+				\column{.5\textwidth}
+					%\vspace{-10pt}
+						\begin{block}{\centering Por longitud de onda}
+						\end{block}
+					\vspace{15pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{SiCvsSi_rad}
+								\label{fig:SiCGevsSiGe_rad}%Pn_SiCSiO2Ge
+						\end{figure}
+						\vfill
+						%%
+				\column{.5\textwidth}
+					\vspace{-10pt}
+						\begin{block}{\centering En el rango de $E>0.7eV$}
+							\end{block}
+					\vspace{10pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{SiCvsSi}%
+								\label{fig:SiCGevsSiGe_radInt}%
+						\end{figure}
+						\vfill
+				\end{columns}		
+		}
 	\end{frame}
 	
 	\subsection{Densidad de carga}

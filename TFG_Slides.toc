@@ -10,6 +10,6 @@
 \beamer@subsectionintoc {5}{2}{nTPV Si-SiO2-Ge}{26}{0}{5}
 \beamer@subsectionintoc {5}{3}{nTPV SS-SiO2-Ge}{30}{0}{5}
 \beamer@subsectionintoc {5}{4}{nTPV SiC-SiO2-Ge}{34}{0}{5}
-\beamer@subsectionintoc {5}{5}{Densidad de carga}{37}{0}{5}
-\beamer@subsectionintoc {5}{6}{Nano-espaciadore de Si}{39}{0}{5}
-\beamer@sectionintoc {6}{Conclusiones}{41}{0}{6}
+\beamer@subsectionintoc {5}{5}{Densidad de carga}{39}{0}{5}
+\beamer@subsectionintoc {5}{6}{Nano-espaciadore de Si}{41}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones}{44}{0}{6}

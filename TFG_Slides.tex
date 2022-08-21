@@ -620,7 +620,6 @@
 			\label{SsSiO2Ge_rel}%
 			\end{figure}	
 		}
-		
 	\end{frame}
 	
 	\subsection{nTPV SiC-SiO2-Ge}
@@ -644,7 +643,7 @@
 						%%
 				\column{.5\textwidth}
 					\vspace{-15pt}
-						\begin{block}{\centering En el rango de $E>0.7eV$}
+						\begin{block}{\centering Con Rc}
 							\end{block}
 					\vspace{10pt}
 						\begin{figure}[h]%
@@ -686,16 +685,128 @@
 						\vfill
 				\end{columns}		
 		}
+				\only<3>{
+			\frametitle{Densidades de nano-espaciadores ({\small $n^{\circ}esp/cm^2$}) y {\small $E>0.7eV$}}
+			\resRelPath
+			\begin{columns}
+			%%
+				\column{.5\textwidth}
+					%\vspace{-1cm}
+						\begin{block}{\centering Sin Rc}
+						\end{block}
+					\vspace{10pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{SiC_Ge}
+								\label{fig:SiCSiO2Ge_rel}%Pn_SiCSiO2Ge
+						\end{figure}
+						\vfill
+						%%
+				\column{.5\textwidth}
+					\vspace{-12pt}
+						\begin{block}{\centering Con Rc}
+							\end{block}
+					\vspace{10pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{SiC_Rc}%
+								\label{fig:SiCSiO2Ge_relRc}%
+						\end{figure}
+						\vfill
+				\end{columns}		
+		}
+		\only<4>{
+		\frametitle{Frecuencia de resonancia ($\omega_{res}$)}
+			\resRadPath
+		\begin{figure}[h]
+			\centering
+				\includegraphics[width=.8\textwidth]{SiCSiC.pdf}
+			\label{fig:SiCSiC}
+		\end{figure}
+		
+		}
 	\end{frame}
 	
 	\subsection{Densidad de carga}
 	\begin{frame}{Densidad de carga}
-	
+	\vspace{-20pt}
+	{\footnotesize
+	Densidad de nano-espaciadores ($n^{\circ}esp/cm^2$) para soportar cargas aplicadas sobre los nano-espaciadores. Se consideran viables si para la densidad obtenida la relación de potencias es mayor a un orden de magnitud.
+	}
+	\vspace{10pt}
+	\begin{block}{Carga de acero inoxidable ($\rho = 8\ gr/cm^3$) de $0.5\ cm^3$}
+		Para una carga de $\sim 0.04 \ N \ \Longrightarrow \ 3 \ n^{\circ}esp/cm^2$.\\ Viable para nTPVs con $R_cEmp$.
+	\end{block}
+		\begin{block}{Carga de acero inoxidable de $0.5\ cm^3$ y una atmósfera de presión}
+		La carga se dispara a $10.17 \ N \ \Longrightarrow \ 673 \ n^{\circ}esp/cm^2$.\\ Viable para nTPVs con $R_cCal$.
+	\end{block}
+
 	\end{frame}
 	
 	\subsection{Nano-espaciadore de Si}
 	\begin{frame}{Nano-espaciadore de Si}
-	
+	\resDiffMatEspPath
+	\only<1>{ %%%   CONDUCCION
+			\frametitle{Conducción}
+			
+			\begin{columns}
+			%%
+				\column{.5\textwidth}
+					%\vspace{-10pt}
+						\begin{block}{\centering Esp. Si }
+						\end{block}
+					\vspace{15pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{Prc_XxSiGe}
+								\label{fig:Prc_XxSiGe}%Pn_SiCSiO2Ge
+						\end{figure}
+						\vfill
+						%%
+				\column{.5\textwidth}
+					\vspace{-15pt}
+						\begin{block}{\centering Esp. SiO2}
+							\end{block}
+					\vspace{10pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{Prc_XxSiO2Ge}%
+								\label{fig:Prc_XxSiO2Ge}%
+						\end{figure}
+						\vfill
+				\end{columns}							
+		}
+		
+			\only<2>{ %%%   CONDUCCION
+			\frametitle{Densidad de nano-espaciadores}
+			
+			\begin{columns}
+			%%
+				\column{.5\textwidth}
+					%\vspace{-10pt}
+						\begin{block}{\centering Esp. Si }
+						\end{block}
+					\vspace{15pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{rel_SiC}
+								\label{fig:rel_SiC}%Pn_SiCSiO2Ge
+						\end{figure}
+						\vfill
+						%%
+				\column{.5\textwidth}
+					\vspace{-15pt}
+						\begin{block}{\centering Esp. SiO2}
+							\end{block}
+					\vspace{10pt}
+						\begin{figure}[h]%
+								\centering
+										\includegraphics[width=\columnwidth]{SiC_Rc}%
+								\label{fig:SiC_Rc}%
+						\end{figure}
+						\vfill
+				\end{columns}							
+		}
 	\end{frame}
 %% CONCLUSIONES
 	\section{Conclusiones}

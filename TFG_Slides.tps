@@ -35,8 +35,8 @@ Class=LaTeXView
 Document=TFG_Slides.tex
 
 [Frame1_View0,0]
-TopLine=487
-Cursor=14291
+TopLine=786
+Cursor=23392
 
 [SessionInfo]
 FrameCount=2

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  22 AUG 2022 00:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  22 AUG 2022 01:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1630,7 +1630,7 @@ LaTeX Info: Redefining \% on input line 1.
 File: ./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf  used
- on input line 624.
+ on input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 94.70476pt.
 <./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf, id=2357, 380.42125pt x 
 315.1775pt>
@@ -1638,7 +1638,7 @@ File: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf Graphic file (type
 pdf)
 <use ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf 
- used on input line 624.
+ used on input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 97.76172pt.
 <./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pdf, id=2358, 391.4625pt x
  315.1775pt>
@@ -1646,7 +1646,7 @@ File: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pdf Graphic file (typ
 e pdf)
 <use ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pd
-f  used on input line 624.
+f  used on input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 95.00124pt.
 <./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf, id=2359, 391.4625pt x 3
 15.1775pt>
@@ -1654,14 +1654,14 @@ File: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf Graphic file (type
 pdf)
 <use ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf 
- used on input line 624.
+ used on input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 95.00124pt.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 624.
+Package hyperref Warning: Ignoring empty anchor on input line 623.
 
 
-Overfull \vbox (6.0256pt too high) detected at line 624
+Overfull \vbox (6.0256pt too high) detected at line 623
  []
 
 [31
@@ -1673,14 +1673,14 @@ er.pdf> <./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf>]
 File: ./figuras/Resultados/radiacion//SsGe.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SsGe.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SsGe.pdf  used on inpu
-t line 624.
+t line 623.
 (pdftex.def)             Requested size: 153.64493pt x 103.22952pt.
 <./figuras/Resultados/radiacion//p_Eg_SsGe.pdf, id=2638, 396.48125pt x 291.0875
 pt>
 File: ./figuras/Resultados/radiacion//p_Eg_SsGe.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//p_Eg_SsGe.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//p_Eg_SsGe.pdf  used on
- input line 624.
+ input line 623.
 (pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
  [32
 
@@ -1691,7 +1691,7 @@ Eg_SsGe.pdf>]
 File: ./figuras/Resultados/RelacionCondRad//SS.png Graphic file (type png)
 <use ./figuras/Resultados/RelacionCondRad//SS.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS.png  used on 
-input line 624.
+input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 98.33118pt.
 <./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.png, id=2854, 367.6134pt 
 x 308.352pt>
@@ -1699,7 +1699,7 @@ File: ./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.png Graphic file (ty
 pe png)
 <use ./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.p
-ng  used on input line 624.
+ng  used on input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 98.97577pt.
 <./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio.png, id=2855, 384.4764p
 t x 308.352pt>
@@ -1707,17 +1707,17 @@ File: ./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio.png Graphic file (
 type png)
 <use ./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio
-.png  used on input line 624.
+.png  used on input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 94.633pt.
 <./figuras/Resultados/RelacionCondRad//SS_Rc.png, id=2856, 375.3222pt x 308.352
 pt>
 File: ./figuras/Resultados/RelacionCondRad//SS_Rc.png Graphic file (type png)
 <use ./figuras/Resultados/RelacionCondRad//SS_Rc.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS_Rc.png  used 
-on input line 624.
+on input line 623.
 (pdftex.def)             Requested size: 117.9987pt x 96.94318pt.
 
-Overfull \vbox (4.1816pt too high) detected at line 624
+Overfull \vbox (4.1816pt too high) detected at line 623
  []
 
 [33
@@ -1737,7 +1737,7 @@ File: ./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf Graphic file (type pdf)
 
 <use ./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf  use
-d on input line 689.
+d on input line 728.
 (pdftex.def)             Requested size: 153.64493pt x 125.26811pt.
 <./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf, id=2930, 380.42125pt x 310
 .15875pt>
@@ -1745,42 +1745,65 @@ File: ./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf Graphic file (type pdf
 )
 <use ./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf  us
-ed on input line 689.
+ed on input line 728.
 (pdftex.def)             Requested size: 153.64493pt x 125.26811pt.
 
-Overfull \vbox (3.89185pt too high) detected at line 689
+Overfull \vbox (3.89185pt too high) detected at line 728
  []
 
 [35
 
  <./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf> <./figuras/Resultados/cond
 uccion//Prc_SiCSiO2Ge.pdf>]
-<./figuras/Resultados/radiacion//SiCvsSi_rad.pdf, id=3074, 446.66875pt x 302.12
-875pt>
+<./figuras/Resultados/radiacion//SiCvsSi_rad.pdf, id=3075, 455.7025pt x 302.128
+75pt>
 File: ./figuras/Resultados/radiacion//SiCvsSi_rad.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SiCvsSi_rad.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SiCvsSi_rad.pdf  used 
-on input line 689.
-(pdftex.def)             Requested size: 153.64493pt x 103.92564pt.
-<./figuras/Resultados/radiacion//SiCvsSi.pdf, id=3075, 396.48125pt x 291.0875pt
+on input line 728.
+(pdftex.def)             Requested size: 153.64493pt x 101.86493pt.
+<./figuras/Resultados/radiacion//SiCvsSi.pdf, id=3076, 396.48125pt x 291.0875pt
 >
 File: ./figuras/Resultados/radiacion//SiCvsSi.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SiCvsSi.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SiCvsSi.pdf  used on i
-nput line 689.
+nput line 728.
 (pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
  [36
 
  <./figuras/Resultados/radiacion//SiCvsSi_rad.pdf> <./figuras/Resultados/radiac
-ion//SiCvsSi.pdf>] (TFG_Slides.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-) [37
+ion//SiCvsSi.pdf>]
+<./figuras/Resultados/RelacionCondRad//SiC_Ge.png, id=3283, 370.0224pt x 308.35
+2pt>
+File: ./figuras/Resultados/RelacionCondRad//SiC_Ge.png Graphic file (type png)
+<use ./figuras/Resultados/RelacionCondRad//SiC_Ge.png>
+Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiC_Ge.png  used
+ on input line 728.
+(pdftex.def)             Requested size: 153.64493pt x 128.03897pt.
+<./figuras/Resultados/RelacionCondRad//SiC_Rc.png, id=3284, 372.9132pt x 308.35
+2pt>
+File: ./figuras/Resultados/RelacionCondRad//SiC_Rc.png Graphic file (type png)
+<use ./figuras/Resultados/RelacionCondRad//SiC_Rc.png>
+Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiC_Rc.png  used
+ on input line 728.
+(pdftex.def)             Requested size: 153.64493pt x 127.0462pt.
 
-]
-[38
+Overfull \vbox (1.6627pt too high) detected at line 728
+ []
 
-] (TFG_Slides.toc
+[37
+
+ <./figuras/Resultados/RelacionCondRad//SiC_Ge.png (PNG copy)> <./figuras/Resul
+tados/RelacionCondRad//SiC_Rc.png (PNG copy)>]
+<./figuras/Resultados/radiacion//SiCSiC.pdf, id=3318, 445.665pt x 302.12875pt>
+File: ./figuras/Resultados/radiacion//SiCSiC.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/radiacion//SiCSiC.pdf>
+Package pdftex.def Info: ./figuras/Resultados/radiacion//SiCSiC.pdf  used on in
+put line 728.
+(pdftex.def)             Requested size: 245.83282pt x 166.65538pt.
+ [38
+
+ <./figuras/Resultados/radiacion//SiCSiC.pdf>] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [39
@@ -1792,11 +1815,61 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [41
 
-] [42
+]
+<./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf, id=3586, 386.44376pt x 315.17
+75pt>
+File: ./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf>
+Package pdftex.def Info: ./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf  used 
+on input line 810.
+(pdftex.def)             Requested size: 153.64493pt x 125.3089pt.
+<./figuras/Resultados/DiffMatEsp//Prc_XxSiO2Ge.pdf, id=3587, 380.42125pt x 315.
+1775pt>
+File: ./figuras/Resultados/DiffMatEsp//Prc_XxSiO2Ge.pdf Graphic file (type pdf)
 
-] [43
+<use ./figuras/Resultados/DiffMatEsp//Prc_XxSiO2Ge.pdf>
+Package pdftex.def Info: ./figuras/Resultados/DiffMatEsp//Prc_XxSiO2Ge.pdf  use
+d on input line 810.
+(pdftex.def)             Requested size: 153.64493pt x 127.2951pt.
 
-] (TFG_Slides.bbl) [44
+Overfull \vbox (5.87708pt too high) detected at line 810
+ []
+
+[42
+
+ <./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf> <./figuras/Resultados/DiffMa
+tEsp//Prc_XxSiO2Ge.pdf>]
+<./figuras/Resultados/DiffMatEsp//rel_SiC.pdf, id=3717, 371.3875pt x 308.15125p
+t>
+File: ./figuras/Resultados/DiffMatEsp//rel_SiC.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/DiffMatEsp//rel_SiC.pdf>
+Package pdftex.def Info: ./figuras/Resultados/DiffMatEsp//rel_SiC.pdf  used on 
+input line 810.
+(pdftex.def)             Requested size: 153.64493pt x 127.48541pt.
+<./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf, id=3718, 371.3875pt x 308.15125pt
+>
+File: ./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf Graphic file (type pdf)
+<use ./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf>
+Package pdftex.def Info: ./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf  used on i
+nput line 810.
+(pdftex.def)             Requested size: 153.64493pt x 127.48541pt.
+
+Overfull \vbox (8.05359pt too high) detected at line 810
+ []
+
+[43
+
+ <./figuras/Resultados/DiffMatEsp//rel_SiC.pdf> <./figuras/Resultados/DiffMatEs
+p//SiC_Rc.pdf>] (TFG_Slides.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [44
+
+] [45
+
+] [46
+
+] (TFG_Slides.bbl) [47
 
  <C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
 le.pdf>]
@@ -1809,42 +1882,55 @@ le.pdf>]
 \tf@snm=\write8
 \openout8 = `TFG_Slides.snm'.
 
- (TFG_Slides.aux
+(TFG_Slides.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `TFG_Slides.out' has not changed.
-(rerunfilecheck)             Checksum: 0A9E06DFBBB7A947E81A8683B7CA1511;2102.
+
+Package rerunfilecheck Warning: File `TFG_Slides.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TFG_Slides.out':
+(rerunfilecheck)             Before: 712726F95E1339A867421E9C22CDF550;2102
+(rerunfilecheck)             After:  75E776184F1CCEBCBF9B83DBC27977CA;2102.
  ) 
 Here is how much of TeX's memory you used:
- 26424 strings out of 478337
- 532072 string characters out of 2836667
- 780414 words of memory out of 3000000
- 44134 multiletter control sequences out of 15000+600000
- 483436 words of font info for 78 fonts, out of 8000000 for 9000
+ 26510 strings out of 478337
+ 535013 string characters out of 2836667
+ 780581 words of memory out of 3000000
+ 44205 multiletter control sequences out of 15000+600000
+ 485083 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,416b,774s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi7.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/marti/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/marti/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Us
-ers/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.
-pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmssi8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmssi9.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on TFG_Slides.pdf (44 pages, 4962234 bytes).
+
+pdfTeX warning (dest): name{Outline0.6.1.45} has been referenced but does not e
+xist, replaced by a fixed one
+
+<C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi9.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/marti/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/
+marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C
+:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
+i10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmssi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmssi8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmssi9.pfb><C:/Users/marti/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/marti/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/marti/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on TFG_Slides.pdf (47 pages, 5291500 bytes).
 PDF statistics:
- 3649 PDF objects out of 4296 (max. 8388607)
- 120 named destinations out of 1000 (max. 500000)
- 371 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4167 PDF objects out of 4296 (max. 8388607)
+ 129 named destinations out of 1000 (max. 500000)
+ 406 words of extra memory for PDF output out of 10000 (max. 10000000)
 

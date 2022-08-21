@@ -35,8 +35,27 @@
 }
 \newcommand*{\miniframeson}{\let\beamer@writeslidentry=\beamer@writeslidentry@miniframeson}
 \newcommand*{\miniframesoff}{\let\beamer@writeslidentry=\beamer@writeslidentry@miniframesoff}
-\makeatother
 
+\setbeamertemplate{headline}
+{%
+  \begin{beamercolorbox}[colsep=1.5pt]{upper separation line head}
+  \end{beamercolorbox}
+  \begin{beamercolorbox}{section in head/foot}
+    \vskip2pt\insertsectionnavigationhorizontal{\paperwidth}{}{}\vskip2pt
+  \end{beamercolorbox}%
+  \ifbeamer@theme@subsection%
+    \begin{beamercolorbox}[colsep=1.5pt]{middle separation line head}
+    \end{beamercolorbox}
+    \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+      leftskip=.3cm,rightskip=.3cm plus1fil]{subsection in head/foot}
+      \usebeamerfont{subsection in head/foot}\insertsubsectionhead
+    \end{beamercolorbox}%
+  \fi%
+  \begin{beamercolorbox}[colsep=1.5pt]{lower separation line head}
+  \end{beamercolorbox}
+}
+\makeatother
+\setbeamerfont{block body}{size=\small}
 %\setbeamertemplate{footline}[page number] 
 
 \usepackage[spanish, es-tabla]{babel}
@@ -57,6 +76,11 @@
 
 \usepackage{caption}
 \usepackage{subcaption}
+\usepackage{nameref}
+\makeatletter
+\newcommand*{\currentname}{\@currentlabelname}
+\makeatother
+%\usepackage{etoc}
 %para generar índice con hipervínculos
 \usepackage{hyperref}
 
@@ -80,13 +104,27 @@
 %\supervisor{Tutor}{Pablo García-Linares Fontes}{Profesor}
 \date{Septiembre, 2022}
 
-\AtBeginSection{
-\begin{frame}{Tabla de Contenidos}
-	\tableofcontents[currentsection]
-\end{frame}
+%\AtBeginSection[]{
+%\begin{frame}{Tabla de Contenidos}
+%	\tableofcontents[currentsection,hideallsubsections]
+%\end{frame}
+%}
+\AtBeginSection[]
+{
+   \begin{frame}<beamer>{\currentname}
+        \tableofcontents[currentsection,currentsubsection,hideallsubsections, 
+    sectionstyle=show/shaded,subsectionstyle=show/shaded/hide]
+   \end{frame}
 }
-
+\AtBeginSubsection[]
+{
+   \begin{frame}<beamer>{\currentname}
+        \tableofcontents[currentsubsection,hideothersubsections,hideothersubsections, 
+    sectionstyle=hide,subsectionstyle=show/shaded]
+   \end{frame}
+}
 \begin{document}
+\graphicspath{{./figuras/}}
 	%\metroset{block=fill}
 
 	%% TITLE PAGE
@@ -127,36 +165,67 @@
 	%% INTRODUCCION
 	\section{Introducción}
 	\begin{frame}{Introducción}
-		\begin{block}{Def}
-		sd
-		\end{block}
+	
+	
+
+	
+\only<2->{\begin{columns}}
+	\centering
+	\only<2->{\column{.5\textwidth}}
+			\only<1->{\includegraphics[width=0.6\textwidth]{DemandaEnergiaPrimariaProporcion1990.png}}
+		\only<2->{
+			%\column{.5\textwidth} 
+			\includegraphics[width=0.4\textwidth]{consumoEnergiaFinalPorSectores_2019.png}}		
+			\only<3->{
+			\includegraphics[width=0.50\textwidth]{cicloCombinado.png}}
+ \only<2->{\end{columns}}
+
+
 	\end{frame}
 
+%%  ESTADO DEL ARTE 
 	\section{Estado del arte}
 	\begin{frame}{Estado del arte}
 		
 	\end{frame}
 
+%%  MATERIALES Y HERRAMIENTAS
 	\section{Materiales y herramientas}
 	\begin{frame}{Materiales y herramientas}
 		
 	\end{frame}
 
+
+%% METODOS
 	\section{Métodos}
 	\begin{frame}{Métodos}
 		
 	\end{frame}
 
+%% RESULTADOS Y DISCUSIÓN
 	\section{Resultados y discusión}
 	\begin{frame}{Resultados y discusión}
-
-	\end{frame}
-
-	\section{Conclusiones}
-	\begin{frame}{Conclusiones}
+	%\localtableofcontents
 		
 	\end{frame}
+	\subsection{nTPV Si-SiO2-Si}
+\begin{frame}{nTPV Si-SiO2-Si}
 
+		
+	\end{frame}
+		\subsection{nTPV Si-SiO2-Ge}
+\begin{frame}{nTPV Si-SiO2-Ge}
+
+		
+	\end{frame}
+%% CONCLUSIONES
+	\section{Conclusiones}
+	\begin{frame}{Conclusiones}
+	\end{frame}
+	\begin{frame}{Desarrollos a futuro}
+		
+	\end{frame}
+%% FINAL
 	\miniframesoff
 	\section{}
 	\begin{frame}	

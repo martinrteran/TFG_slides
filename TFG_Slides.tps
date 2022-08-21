@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=TFG_Slides.tex
 
 [Frame0_View0,0]
-TopLine=111
-Cursor=4218
+TopLine=108
+Cursor=4076
 
 [SessionInfo]
 FrameCount=1

@@ -1,7 +1,9 @@
 \babel@toc {spanish}{}\relax 
 \beamer@sectionintoc {1}{Introducción}{3}{0}{1}
-\beamer@sectionintoc {2}{Estado del arte}{5}{0}{2}
-\beamer@sectionintoc {3}{Materiales y herramientas}{7}{0}{3}
-\beamer@sectionintoc {4}{Métodos}{9}{0}{4}
-\beamer@sectionintoc {5}{Resultados y discusión}{11}{0}{5}
-\beamer@sectionintoc {6}{Conclusiones}{13}{0}{6}
+\beamer@sectionintoc {2}{Estado del arte}{7}{0}{2}
+\beamer@sectionintoc {3}{Materiales y herramientas}{9}{0}{3}
+\beamer@sectionintoc {4}{Métodos}{11}{0}{4}
+\beamer@sectionintoc {5}{Resultados y discusión}{13}{0}{5}
+\beamer@subsectionintoc {5}{1}{nTPV Si-SiO2-Si}{15}{0}{5}
+\beamer@subsectionintoc {5}{2}{nTPV Si-SiO2-Ge}{17}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones}{19}{0}{6}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  22 AUG 2022 01:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  22 AUG 2022 16:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1816,14 +1816,14 @@ LaTeX Info: Redefining \% on input line 1.
 ) [41
 
 ]
-<./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf, id=3586, 386.44376pt x 315.17
+<./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf, id=3587, 386.44376pt x 315.17
 75pt>
 File: ./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf>
 Package pdftex.def Info: ./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf  used 
 on input line 810.
 (pdftex.def)             Requested size: 153.64493pt x 125.3089pt.
-<./figuras/Resultados/DiffMatEsp//Prc_XxSiO2Ge.pdf, id=3587, 380.42125pt x 315.
+<./figuras/Resultados/DiffMatEsp//Prc_XxSiO2Ge.pdf, id=3588, 380.42125pt x 315.
 1775pt>
 File: ./figuras/Resultados/DiffMatEsp//Prc_XxSiO2Ge.pdf Graphic file (type pdf)
 
@@ -1839,14 +1839,14 @@ Overfull \vbox (5.87708pt too high) detected at line 810
 
  <./figuras/Resultados/DiffMatEsp//Prc_XxSiGe.pdf> <./figuras/Resultados/DiffMa
 tEsp//Prc_XxSiO2Ge.pdf>]
-<./figuras/Resultados/DiffMatEsp//rel_SiC.pdf, id=3717, 371.3875pt x 308.15125p
+<./figuras/Resultados/DiffMatEsp//rel_SiC.pdf, id=3718, 371.3875pt x 308.15125p
 t>
 File: ./figuras/Resultados/DiffMatEsp//rel_SiC.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/DiffMatEsp//rel_SiC.pdf>
 Package pdftex.def Info: ./figuras/Resultados/DiffMatEsp//rel_SiC.pdf  used on 
 input line 810.
 (pdftex.def)             Requested size: 153.64493pt x 127.48541pt.
-<./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf, id=3718, 371.3875pt x 308.15125pt
+<./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf, id=3719, 371.3875pt x 308.15125pt
 >
 File: ./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/DiffMatEsp//SiC_Rc.pdf>
@@ -1889,48 +1889,38 @@ LaTeX Info: Redefining \% on input line 22.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `TFG_Slides.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `TFG_Slides.out':
-(rerunfilecheck)             Before: 712726F95E1339A867421E9C22CDF550;2102
-(rerunfilecheck)             After:  75E776184F1CCEBCBF9B83DBC27977CA;2102.
+Package rerunfilecheck Info: File `TFG_Slides.out' has not changed.
+(rerunfilecheck)             Checksum: 75E776184F1CCEBCBF9B83DBC27977CA;2102.
  ) 
 Here is how much of TeX's memory you used:
- 26510 strings out of 478337
- 535013 string characters out of 2836667
- 780581 words of memory out of 3000000
+ 26509 strings out of 478337
+ 534998 string characters out of 2836667
+ 780582 words of memory out of 3000000
  44205 multiletter control sequences out of 15000+600000
  485083 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,416b,774s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{Outline0.6.1.45} has been referenced but does not e
-xist, replaced by a fixed one
-
+<C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/marti/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/marti/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/User
+s/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb>
 <C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi9.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/marti/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/
-marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C
-:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
-i10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmssi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmssi8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmssi9.pfb><C:/Users/marti/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/marti/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/marti/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on TFG_Slides.pdf (47 pages, 5291500 bytes).
+ssi10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmssi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmssi8.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmssi9.pfb><C:/Users/marti/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/marti/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/marti/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on TFG_Slides.pdf (47 pages, 5292130 bytes).
 PDF statistics:
- 4167 PDF objects out of 4296 (max. 8388607)
- 129 named destinations out of 1000 (max. 500000)
+ 4166 PDF objects out of 4296 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
  406 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -126,7 +126,11 @@
 	\hypersetup{linkcolor=ashgrey}
 }
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                        BEGIN DOCUMENT 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \generalPath
 	%\metroset{block=fill}
@@ -170,121 +174,124 @@
 	%% INTRODUCCION
 	\section{Introducción}
 	\begin{frame}{Introducción}
-
-\only<1>{
-	\vspace{10pt}	
-	%% FIGURAS DE DEMANDAS
-	\begin{figure}
-		\centering
-		\begin{subfigure}[b]{0.58\textwidth}
-		\centering
-			\includegraphics[width=\textwidth]{DemandaEnergiaPrimariaProporcion1990.png}
-			\caption*{Fuente de datos: Ministerio para la transición ecológica y el reto demográfico de España.}
-		\end{subfigure} \hfill
-		\begin{subfigure}[b]{0.4\textwidth}
-			\centering
-			\includegraphics[width=\textwidth]{consumoEnergiaFinalPorSectores_2019.png}
-			\caption*{Fuente: Ministerio para la transición ecológica y el reto demográfico de España (2019).}
-		\end{subfigure}
-		\label{fig:demandaYconsumo}
-	\end{figure}
-}
-\only<2->{
-\vspace{-10pt}
-%%  FIGURAS SISTEMAS MECANICOS DE GENERACION
-\begin{figure}[htbp]
-	\centering
-	\onslide<2->{
-	\begin{subfigure}[b]{0.55\textwidth}
-		\centering
-			\includegraphics[width=\textwidth]{esquemasLomasValorizacion}
-			\caption*{Fuente: Ayuntamiento de Madrid.}
-	\end{subfigure}\hfill}
-	%
-	\onslide<3->{
-	\begin{subfigure}[b]{0.4\textwidth}
-		\includegraphics[width=\textwidth]{cicloCombinado}
-		\caption*{Ciclo combinado. Fuente: Wikipedia.}
-	\end{subfigure} \hfill}
-	%
-	\onslide<4->{
-	\begin{subfigure}[b]{0.38\textwidth}
-	\vspace{-5pt}
-		\includegraphics[height=0.4\textheight,width=\textwidth,angle=0]{TEG}
-		\caption*{TEG. Fuente: \cite{TEG5efficiency}}
-	\end{subfigure}
-	\hfill}
-	\onslide<5->{
-	\begin{subfigure}[b]{0.48\textwidth}
-	\vspace{-1cm}
-		\includegraphics[width=\textwidth]{iTPV}
-		\caption*{iTPV. Fuente: \cite{Thermoionic_nTPV_DATAS201910}}
-	\end{subfigure} }
-%
-\label{fig:valdemingomez_cc_TEG_iTPV}
-\end{figure}
-}
-	\end{frame}
-
-%%  ESTADO DEL ARTE 
-	\section{Estado del arte}
-	\subsection{Termo-fotovoltaica}
-	\begin{frame}{Termo-fotovoltaica}
-		\begin{figure}[ht]
-			\centering
-			\only<1>{
-			\begin{subfigure}[b]{0.48\textwidth}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		%           DEMANDA Y CONSUMO DE ENERGÍA   
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		\only<1>{
+			\vspace{10pt}	
+			%% FIGURAS DE DEMANDAS
+			\begin{figure}
 				\centering
-					\includegraphics[width=1.00\textwidth]{PV_Effect}
-				\caption*{Efecto fotovoltaico. Fuente: \cite{picPvEffect}}
-				\label{fig:PV_Effect}
-			\end{subfigure}
+				\begin{subfigure}[b]{0.58\textwidth}
+				\centering
+					\includegraphics[width=\textwidth]{DemandaEnergiaPrimariaProporcion1990.png}
+					\caption*{Fuente de datos: Ministerio para la transición ecológica y el reto demográfico de España.}
+				\end{subfigure} \hfill
+				\begin{subfigure}[b]{0.4\textwidth}
+					\centering
+					\includegraphics[width=\textwidth]{consumoEnergiaFinalPorSectores_2019.png}
+					\caption*{Fuente: Ministerio para la transición ecológica y el reto demográfico de España (2019).}
+				\end{subfigure}
+				\label{fig:demandaYconsumo}
+			\end{figure}
+		}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		%         MECANISMOS DE GENERACIÓN Y RECUPERACIÓN DE CALOR MECÁNICOS
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		\only<2-5>{
+		\vspace{-10pt}
+		%%  FIGURAS SISTEMAS MECANICOS DE GENERACION
+		\begin{figure}[htbp]
+			\centering
+			\onslide<2-5>{
+				\begin{subfigure}[b]{0.55\textwidth}
+					\centering
+						\includegraphics[width=\textwidth]{esquemasLomasValorizacion}
+						\caption*{Fuente: Ayuntamiento de Madrid.}
+				\end{subfigure}\hfill
 			}
 			%
-			\only<1->{
-			\hfill
-			\begin{subfigure}[b]{0.4\textwidth}
-				\centering
-					\includegraphics[width=1.00\textwidth]{TPV_40_BSR}
-				\caption*{Efecto fotovoltaico. Fuente: \cite{thermophotovoltaic_40}}
-				\label{fig:PV_Effect}
-			\end{subfigure}
+			\onslide<3-5>{
+				\begin{subfigure}[b]{0.4\textwidth}
+					\includegraphics[width=\textwidth]{cicloCombinado}
+					\caption*{Ciclo combinado. Fuente: Wikipedia.}
+				\end{subfigure} \hfill
 			}
 			%
-			\only<2->{
-			\hfill
-			\begin{subfigure}[b]{0.48\textwidth}
-					\includegraphics[width=1.00\textwidth]{graficaDiff_dc_fullEqu}
-				\caption*{Radiación campo cercano. Fuente: \cite{nfTPV_fullEquations}}
-				\label{fig:PV_Effect}
-			\end{subfigure}
+			\onslide<4-5>{
+				\begin{subfigure}[b]{0.38\textwidth}
+					\vspace{-5pt}
+					\includegraphics[height=0.4\textheight,width=\textwidth,angle=0]{TEG}
+					\caption*{TEG. Fuente: \cite{TEG5efficiency}}
+				\end{subfigure}
+				\hfill
 			}
-		\label{fig:TPV}
-		\end{figure}
-		
+			\onslide<5>{
+				\begin{subfigure}[b]{0.48\textwidth}
+					\vspace{-1cm}
+					\includegraphics[width=\textwidth]{iTPV}
+					\caption*{iTPV. Fuente: \cite{Thermoionic_nTPV_DATAS201910}}
+				\end{subfigure} 
+			}
+			%
+			\label{fig:valdemingomez_cc_TEG_iTPV}
+			\end{figure}
+		}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		%           	TERMO-FOTOVOLTAICA
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		\only<6->{
+			\begin{figure}[ht]
+					\centering
+					\only<6>{
+						\frametitle{Termo-fotovoltaica}
+						\begin{subfigure}[b]{0.48\textwidth}
+							\centering
+							\includegraphics[width=1.00\textwidth]{PV_Effect}
+							\caption*{Efecto fotovoltaico. Fuente: \cite{picPvEffect}}
+							\label{fig:PV_Effect}
+						\end{subfigure}
+					}
+						%		
+			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+			%                    CAMPO CERCANO
+			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+				\only<6->{
+					\hfill
+					\begin{subfigure}[b]{0.4\textwidth}
+						\centering
+							\includegraphics[width=1.00\textwidth]{TPV_40_BSR}
+						\caption*{Efecto fotovoltaico. Fuente: \cite{thermophotovoltaic_40}}
+						\label{fig:PV_Effect}
+					\end{subfigure}
+					}
+					%
+					\only<7->{
+						\frametitle{Efecto de campo cercano}
+						\hfill
+						\begin{subfigure}[b]{0.48\textwidth}
+								\includegraphics[width=1.00\textwidth]{graficaDiff_dc_fullEqu}
+							\caption*{Radiación campo cercano. Fuente: \cite{nfTPV_fullEquations}}
+							\label{fig:PV_Effect}
+						\end{subfigure}
+					}
+				\label{fig:TPV}
+			\end{figure}
+		}
 	\end{frame}
-	\subsection{Campo cercano}
-	\begin{frame}{Campo cercano}
-		
-	\end{frame}
-%%  MATERIALES Y HERRAMIENTAS
-	\section{Materiales y herramientas}
-	\begin{frame}{Materiales y herramientas}
+
+%%  CONSIDERACIONES PREVIAS
+	\section{Consideraciones previas}
+	\begin{frame}{Consideraciones previas}
 		
 	\end{frame}
 
 
-%% METODOS
-	\section{Métodos}
-	\begin{frame}{Métodos}
-		
-	\end{frame}
-
-%% RESULTADOS Y DISCUSIÓN
+%% RESULTADOS
 \graphicspath{{./figuras/Resultados}}
 
-	\section{Resultados y discusión}
-	\begin{frame}{Resultados y discusión}
+	\section{Resultados}
+	\begin{frame}{Resultados}
 	%\localtableofcontents
 	\hypersetup{linkcolor=black}
 	%\onehalfspacing
@@ -743,8 +750,8 @@
 
 	\end{frame}
 	
-	\subsection{Nano-espaciadore de Si}
-	\begin{frame}{Nano-espaciadore de Si}
+	\subsection{Nano-espaciadores de Si}
+	\begin{frame}{Nano-espaciadores de Si}
 	\resDiffMatEspPath
 	\only<1>{ %%%   CONDUCCION
 			\frametitle{Conducción}
@@ -753,7 +760,7 @@
 			%%
 				\column{.5\textwidth}
 					%\vspace{-10pt}
-						\begin{block}{\centering Esp. Si }
+						\begin{block}{\centering Nano-espaciadores de Si }
 						\end{block}
 					\vspace{15pt}
 						\begin{figure}[h]%
@@ -764,27 +771,28 @@
 						\vfill
 						%%
 				\column{.5\textwidth}
-					\vspace{-15pt}
-						\begin{block}{\centering Esp. SiO2}
+					\vspace{-12pt}
+						\begin{block}{\centering Nano-espaciadores de SiO2}
 							\end{block}
-					\vspace{10pt}
+					\vspace{16pt}\vfill
 						\begin{figure}[h]%
 								\centering
 										\includegraphics[width=\columnwidth]{Prc_XxSiO2Ge}%
 								\label{fig:Prc_XxSiO2Ge}%
 						\end{figure}
 						\vfill
-				\end{columns}							
+				\end{columns}				
+				\vfill
 		}
 		
-			\only<2>{ %%%   CONDUCCION
+			\only<2>{ %%%   DENSIDADES
 			\frametitle{Densidad de nano-espaciadores para emisor de $SiC$}
 			
 			\begin{columns}
 			%%
 				\column{.5\textwidth}
 					%\vspace{-10pt}
-						\begin{block}{\centering Esp. Si }
+						\begin{block}{\centering Nano-espaciadores de Si }
 						\end{block}
 					\vspace{15pt}
 						\begin{figure}[h]%
@@ -795,17 +803,18 @@
 						\vfill
 						%%
 				\column{.5\textwidth}
-					\vspace{-15pt}
-						\begin{block}{\centering Esp. SiO2}
+					\vspace{-14pt}
+						\begin{block}{\centering Nano-espaciadores de SiO2}
 							\end{block}
-					\vspace{10pt}
+					\vspace{16pt}\vfill
 						\begin{figure}[h]%
 								\centering
 										\includegraphics[width=\columnwidth]{SiC_Rc}%
 								\label{fig:SiC_Rc}%
 						\end{figure}
 						\vfill
-				\end{columns}							
+				\end{columns}	
+				\vfill
 		}
 	\end{frame}
 %% CONCLUSIONES
@@ -814,7 +823,7 @@
 	\end{frame}
 	\subsection*{Desarrollos a futuro}
 	\begin{frame}{Desarrollos a futuro}
-		
+
 	\end{frame}
 %% FINAL
 	\miniframesoff

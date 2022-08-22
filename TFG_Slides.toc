@@ -1,15 +1,11 @@
 \babel@toc {spanish}{}\relax 
 \beamer@sectionintoc {1}{Introducción}{3}{0}{1}
-\beamer@sectionintoc {2}{Estado del arte}{9}{0}{2}
-\beamer@subsectionintoc {2}{1}{Termo-fotovoltaica}{10}{0}{2}
-\beamer@subsectionintoc {2}{2}{Campo cercano}{13}{0}{2}
-\beamer@sectionintoc {3}{Materiales y herramientas}{15}{0}{3}
-\beamer@sectionintoc {4}{Métodos}{17}{0}{4}
-\beamer@sectionintoc {5}{Resultados y discusión}{19}{0}{5}
-\beamer@subsectionintoc {5}{1}{nTPV Si-SiO2-Si}{21}{0}{5}
-\beamer@subsectionintoc {5}{2}{nTPV Si-SiO2-Ge}{26}{0}{5}
-\beamer@subsectionintoc {5}{3}{nTPV SS-SiO2-Ge}{30}{0}{5}
-\beamer@subsectionintoc {5}{4}{nTPV SiC-SiO2-Ge}{34}{0}{5}
-\beamer@subsectionintoc {5}{5}{Densidad de carga}{39}{0}{5}
-\beamer@subsectionintoc {5}{6}{Nano-espaciadore de Si}{41}{0}{5}
-\beamer@sectionintoc {6}{Conclusiones}{44}{0}{6}
+\beamer@sectionintoc {2}{Consideraciones previas}{11}{0}{2}
+\beamer@sectionintoc {3}{Resultados}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{nTPV Si-SiO2-Si}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{nTPV Si-SiO2-Ge}{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{nTPV SS-SiO2-Ge}{24}{0}{3}
+\beamer@subsectionintoc {3}{4}{nTPV SiC-SiO2-Ge}{28}{0}{3}
+\beamer@subsectionintoc {3}{5}{Densidad de carga}{33}{0}{3}
+\beamer@subsectionintoc {3}{6}{Nano-espaciadores de Si}{35}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{38}{0}{4}

@@ -27,6 +27,7 @@
 \usepackage{nameref}
 \usepackage{graphicx}
 \usepackage{rotating}
+\usepackage{enumerate}
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{caption}
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{subcaption}
 
@@ -820,15 +821,37 @@
 %% CONCLUSIONES
 	\section{Conclusiones}
 	\begin{frame}{Conclusiones}
+	\setbeamertemplate{itemize items}[triangle]
+	\only<1-3>{
+	
+		\begin{itemize}
+			\item La porosidad de los nano-espaciadores no es tan importante.
+			\item<2-3> El uso de células de menor banda energética es indispensable para obtener mayores potencias.
+			\item<3> Las resistencias de contacto es el factor más importante, sí es el de mayor relevancia.
+			
+		\end{itemize}
+	}
+	\only<4-7>{
+		\setbeamertemplate{itemize items}[circle]
+			\begin{itemize}
+				\item<4> Disminución de las pérdidas por conducción.
+				\item<5-7> Solo las nTPVs con $R_c$ pueden soportar cargas (orden de los $10^{-3} m^2 K/W$).
+				\item<6-7> Diferentes materiales de nano-espaciadores ($R_c>4\cdot 10^{-6} m^2 K/W$).
+				\item<7> El material de emisor afecta principalmente a la radiación.
+			\end{itemize}			
+	}	
+	\only<8->{
+		\frametitle{Desarrollos a futuro}
+		\begin{itemize}
+			\item sa
+		\end{itemize}
+	}
 	\end{frame}
-	\subsection*{Desarrollos a futuro}
-	\begin{frame}{Desarrollos a futuro}
 
-	\end{frame}
 %% FINAL
 	\miniframesoff
 	\section{}
-	\begin{frame}{References}
+	\begin{frame}{Bibliografía}
         \bibliographystyle{apalike}
 				\tiny
         \bibliography{bibliografia/bibliografia}

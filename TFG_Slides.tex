@@ -30,7 +30,7 @@
 \usepackage{enumerate}
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{caption}
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{subcaption}
-
+\usepackage{changepage}
 %\usepackage[ backend=biber,style=authortitle,]{biblatex}
 
 \usetheme{Berlin}%Berlin}Luebeck
@@ -52,7 +52,13 @@
 }
 \newcommand*{\miniframeson}{\let\beamer@writeslidentry=\beamer@writeslidentry@miniframeson}
 \newcommand*{\miniframesoff}{\let\beamer@writeslidentry=\beamer@writeslidentry@miniframesoff}
-
+\newcommand\Wider[2][3em]{%
+\makebox[\linewidth][c]{%
+  \begin{minipage}{\dimexpr\textwidth+#1\relax}
+  \raggedright#2
+  \end{minipage}%
+  }%
+}
 \setbeamertemplate{headline}
 {%
   \begin{beamercolorbox}[colsep=1.5pt]{upper separation line head}
@@ -81,6 +87,7 @@
 	\newcommand{\resDiffMatEspPath}{\graphicspath{{./figuras/Resultados/DiffMatEsp/} }}
 	\newcommand{\resRelPath}{\graphicspath{{./figuras/Resultados/RelacionCondRad/}}}
 	\newcommand{\generalPath}{\graphicspath{{./figuras/}}}
+	\newcommand{\proPath}{\graphicspath{{./figuras/Procedimiento_Simulaciones/}}}
 \makeatother
 
 %\usepackage{etoc}
@@ -284,9 +291,67 @@
 %%  CONSIDERACIONES PREVIAS
 	\section{Consideraciones previas}
 	\begin{frame}{Consideraciones previas}
-		
+		\proPath
+		\begin{adjustwidth}{-2em}{-2em}
+		\begin{figure}\centering	
+			\only<2->{
+				\begin{subfigure}[c]{.5\textwidth}
+					\centering
+						\includegraphics[width=\textwidth]{Conduccion/modelado3D_cerca}
+					\label{fig:modelado3D_centro_cerca}
+				\end{subfigure}
+			}
+			\only<4->{
+				%\hfill
+				\begin{subfigure}[c]{.53\textwidth}
+					\centering
+						\includegraphics[width=\textwidth]{Conduccion/mallado_100_cerca}
+					\label{fig:mallado_100_cerca}
+				\end{subfigure}%\hfill
+			}
+			\only<1->{
+				\begin{subfigure}[c]{.4\textwidth}
+					\centering
+						\includegraphics[width=\textwidth]{Conduccion/modelado3D_centro_cerca}
+					\label{fig:modelado3D_centro_cerca}
+				\end{subfigure}
+			}
+			\only<3->{
+			%\hfill				
+				\begin{subfigure}[c]{.67\textwidth}
+					\centering
+						\includegraphics[width=\textwidth]{Conduccion/nTPV_lejos}
+					\label{fig:mallado_100_cerca}
+				\end{subfigure}
+				\vfill	
+			}
+			\label{fig:CuestionesPrevias}
+		\end{figure}
+		\end{adjustwidth}
 	\end{frame}
-
+	\begin{frame}{Consideraciones previas}
+	\proPath
+	\begin{adjustwidth}{-2em}{-2em}
+		\begin{figure}
+			\centering
+			\only<1->{
+				\begin{subfigure}[c]{.62\textwidth}
+					\centering
+						\includegraphics[width=\textwidth]{Radiacion/ejemplo_final_simulacion_radP}
+					\label{fig:ejemplo_final_simulacion_radP}
+				\end{subfigure}
+			}
+			\only<2->{
+				\begin{subfigure}[c]{.48\textwidth}
+					\centering
+						\includegraphics[width=\textwidth]{figuras/rad_mat/EgRad.png}
+					\label{fig:EgRad}
+				\end{subfigure}
+			}
+			\label{fig:CuestionesPrevias2}
+		\end{figure}
+	\end{adjustwidth}
+	\end{frame}
 
 %% RESULTADOS
 \graphicspath{{./figuras/Resultados}}
@@ -317,8 +382,8 @@
 							\begin{subfigure}[b]{0.9\columnwidth}
 									\includegraphics[width=\textwidth]{Pn_SiSiO2Si}
 							\end{subfigure}\hfill \vfill
-							\begin{subfigure}[b]{0.8\columnwidth}
-									\includegraphics[width=\textwidth]{SiSiO2Si_1000nm_Plane}%
+							\begin{subfigure}[b]{0.82\columnwidth}
+									\includegraphics[width=\textwidth]{SiSiO2Si_1000nm_Plane2}%
 							\end{subfigure}
 							\label{fig:SiSiO2Si_cond}%Pn_SiCSiO2Ge
 					\end{figure}

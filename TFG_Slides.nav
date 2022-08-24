@@ -14,62 +14,64 @@
 \headcommand {\sectionentry {2}{Consideraciones previas}{11}{Consideraciones previas}{0}}
 \headcommand {\slideentry {2}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {2}{0}{2}{12/12}{}{0}}
-\headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@sectionpages {11}{12}}
-\headcommand {\beamer@subsectionpages {11}{12}}
-\headcommand {\sectionentry {3}{Resultados}{13}{Resultados}{0}}
-\headcommand {\slideentry {3}{0}{1}{13/13}{}{0}}
-\headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {3}{0}{2}{14/14}{}{0}}
-\headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@subsectionpages {13}{14}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{15}{nTPV Si-SiO2-Si}}
-\headcommand {\slideentry {3}{1}{1}{15/15}{nTPV Si-SiO2-Si}{0}}
-\headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {3}{1}{2}{16/19}{nTPV Si-SiO2-Si}{0}}
-\headcommand {\beamer@framepages {16}{19}}
-\headcommand {\beamer@subsectionpages {15}{19}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{20}{nTPV Si-SiO2-Ge}}
-\headcommand {\slideentry {3}{2}{1}{20/20}{nTPV Si-SiO2-Ge}{0}}
+\headcommand {\slideentry {2}{0}{2}{12/15}{}{0}}
+\headcommand {\beamer@framepages {12}{15}}
+\headcommand {\slideentry {2}{0}{3}{16/17}{}{0}}
+\headcommand {\beamer@framepages {16}{17}}
+\headcommand {\beamer@sectionpages {11}{17}}
+\headcommand {\beamer@subsectionpages {11}{17}}
+\headcommand {\sectionentry {3}{Resultados}{18}{Resultados}{0}}
+\headcommand {\slideentry {3}{0}{1}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {3}{0}{2}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@subsectionpages {18}{19}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{20}{nTPV Si-SiO2-Si}}
+\headcommand {\slideentry {3}{1}{1}{20/20}{nTPV Si-SiO2-Si}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {3}{2}{2}{21/23}{nTPV Si-SiO2-Ge}{0}}
-\headcommand {\beamer@framepages {21}{23}}
-\headcommand {\beamer@subsectionpages {20}{23}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{24}{nTPV SS-SiO2-Ge}}
-\headcommand {\slideentry {3}{3}{1}{24/24}{nTPV SS-SiO2-Ge}{0}}
-\headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {3}{3}{2}{25/27}{nTPV SS-SiO2-Ge}{0}}
-\headcommand {\beamer@framepages {25}{27}}
-\headcommand {\beamer@subsectionpages {24}{27}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{28}{nTPV SiC-SiO2-Ge}}
-\headcommand {\slideentry {3}{4}{1}{28/28}{nTPV SiC-SiO2-Ge}{0}}
-\headcommand {\beamer@framepages {28}{28}}
-\headcommand {\slideentry {3}{4}{2}{29/32}{nTPV SiC-SiO2-Ge}{0}}
-\headcommand {\beamer@framepages {29}{32}}
-\headcommand {\beamer@subsectionpages {28}{32}}
-\headcommand {\beamer@subsectionentry {0}{3}{5}{33}{Densidad de carga}}
-\headcommand {\slideentry {3}{5}{1}{33/33}{Densidad de carga}{0}}
+\headcommand {\slideentry {3}{1}{2}{21/24}{nTPV Si-SiO2-Si}{0}}
+\headcommand {\beamer@framepages {21}{24}}
+\headcommand {\beamer@subsectionpages {20}{24}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{25}{nTPV Si-SiO2-Ge}}
+\headcommand {\slideentry {3}{2}{1}{25/25}{nTPV Si-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {3}{2}{2}{26/28}{nTPV Si-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {26}{28}}
+\headcommand {\beamer@subsectionpages {25}{28}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{29}{nTPV SS-SiO2-Ge}}
+\headcommand {\slideentry {3}{3}{1}{29/29}{nTPV SS-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {3}{3}{2}{30/32}{nTPV SS-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {30}{32}}
+\headcommand {\beamer@subsectionpages {29}{32}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{33}{nTPV SiC-SiO2-Ge}}
+\headcommand {\slideentry {3}{4}{1}{33/33}{nTPV SiC-SiO2-Ge}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {3}{5}{2}{34/34}{Densidad de carga}{0}}
-\headcommand {\beamer@framepages {34}{34}}
-\headcommand {\beamer@subsectionpages {33}{34}}
-\headcommand {\beamer@subsectionentry {0}{3}{6}{35}{Nano-espaciadores de Si}}
-\headcommand {\slideentry {3}{6}{1}{35/35}{Nano-espaciadores de Si}{0}}
-\headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {3}{6}{2}{36/37}{Nano-espaciadores de Si}{0}}
-\headcommand {\beamer@framepages {36}{37}}
-\headcommand {\beamer@sectionpages {13}{37}}
-\headcommand {\beamer@subsectionpages {35}{37}}
-\headcommand {\sectionentry {4}{Conclusiones}{38}{Conclusiones}{0}}
-\headcommand {\slideentry {4}{0}{1}{38/38}{}{0}}
+\headcommand {\slideentry {3}{4}{2}{34/37}{nTPV SiC-SiO2-Ge}{0}}
+\headcommand {\beamer@framepages {34}{37}}
+\headcommand {\beamer@subsectionpages {33}{37}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{38}{Densidad de carga}}
+\headcommand {\slideentry {3}{5}{1}{38/38}{Densidad de carga}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\slideentry {4}{0}{2}{39/49}{}{0}}
-\headcommand {\beamer@framepages {39}{49}}
-\headcommand {\beamer@sectionpages {38}{49}}
-\headcommand {\beamer@subsectionpages {38}{49}}
-\headcommand {\beamer@partpages {1}{51}}
-\headcommand {\beamer@subsectionpages {50}{51}}
-\headcommand {\beamer@sectionpages {50}{51}}
-\headcommand {\beamer@documentpages {51}}
-\headcommand {\gdef \inserttotalframenumber {24}}
+\headcommand {\slideentry {3}{5}{2}{39/39}{Densidad de carga}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@subsectionpages {38}{39}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{40}{Nano-espaciadores de Si}}
+\headcommand {\slideentry {3}{6}{1}{40/40}{Nano-espaciadores de Si}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {3}{6}{2}{41/42}{Nano-espaciadores de Si}{0}}
+\headcommand {\beamer@framepages {41}{42}}
+\headcommand {\beamer@sectionpages {18}{42}}
+\headcommand {\beamer@subsectionpages {40}{42}}
+\headcommand {\sectionentry {4}{Conclusiones}{43}{Conclusiones}{0}}
+\headcommand {\slideentry {4}{0}{1}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {4}{0}{2}{44/54}{}{0}}
+\headcommand {\beamer@framepages {44}{54}}
+\headcommand {\beamer@sectionpages {43}{54}}
+\headcommand {\beamer@subsectionpages {43}{54}}
+\headcommand {\beamer@partpages {1}{56}}
+\headcommand {\beamer@subsectionpages {55}{56}}
+\headcommand {\beamer@sectionpages {55}{56}}
+\headcommand {\beamer@documentpages {56}}
+\headcommand {\gdef \inserttotalframenumber {25}}

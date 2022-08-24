@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  23 AUG 2022 21:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.2)  24 AUG 2022 08:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1836,10 +1836,18 @@ LaTeX Info: Redefining \% on input line 1.
 ]
 [46
 
-] (TFG_Slides.bbl) [47
+] [47
+
+] [48
+
+] [49
+
+] (TFG_Slides.bbl) [50
 
  <C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
-le.pdf>]
+le.pdf>] [51
+
+]
 \tf@nav=\write6
 \openout6 = `TFG_Slides.nav'.
 
@@ -1854,14 +1862,14 @@ LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 Package rerunfilecheck Info: File `TFG_Slides.out' has not changed.
-(rerunfilecheck)             Checksum: B5D7DE47265AD3936E7C7CB88BB61AA6;1377.
+(rerunfilecheck)             Checksum: 2D2FBFB72F7125563AFE9B2339F3EBC6;1393.
  ) 
 Here is how much of TeX's memory you used:
- 26483 strings out of 478337
- 535080 string characters out of 2836667
- 780350 words of memory out of 3000000
- 44195 multiletter control sequences out of 15000+600000
- 485083 words of font info for 84 fonts, out of 8000000 for 9000
+ 26500 strings out of 478337
+ 535391 string characters out of 2836667
+ 780349 words of memory out of 3000000
+ 44204 multiletter control sequences out of 15000+600000
+ 485389 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,416b,774s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
@@ -1885,9 +1893,9 @@ Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/marti/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
 s/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam1
 0.pfb>
-Output written on TFG_Slides.pdf (47 pages, 5284259 bytes).
+Output written on TFG_Slides.pdf (51 pages, 5312929 bytes).
 PDF statistics:
- 4023 PDF objects out of 4296 (max. 8388607)
- 120 named destinations out of 1000 (max. 500000)
+ 4146 PDF objects out of 4296 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
  366 words of extra memory for PDF output out of 10000 (max. 10000000)
 

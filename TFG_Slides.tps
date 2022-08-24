@@ -11,13 +11,13 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1066
+NormalPos.right=1218
 NormalPos.bottom=529
 Class=BibTeXView
 Document=bibliografia\bibliografia.bib
 
 [Frame0_View0,0]
-TopLine=925
+TopLine=873
 Cursor=49165
 
 [Frame1]
@@ -29,14 +29,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1066
+NormalPos.right=1218
 NormalPos.bottom=529
 Class=LaTeXView
 Document=TFG_Slides.tex
 
 [Frame1_View0,0]
-TopLine=824
-Cursor=24970
+TopLine=831
+Cursor=24609
 
 [SessionInfo]
 FrameCount=2

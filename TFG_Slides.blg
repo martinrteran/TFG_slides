@@ -5,49 +5,44 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 26 items.
 Database file #1: bibliografia/bibliografia.bib
-Warning--entry type for "picPvEffect" isn't style-file defined
---line 665 of file bibliografia/bibliografia.bib
-Warning--to sort, need author or key in picPvEffect
-Warning--empty year in picPvEffect
-You've used 5 entries,
+You've used 4 entries,
             1935 wiz_defined-function locations,
-            506 strings with 4753 characters,
-and the built_in function-call counts, 2030 in all, are:
-= -- 189
+            503 strings with 4663 characters,
+and the built_in function-call counts, 1842 in all, are:
+= -- 169
 > -- 106
 < -- 2
 + -- 40
 - -- 38
-* -- 185
-:= -- 362
-add.period$ -- 13
-call.type$ -- 5
-change.case$ -- 44
-chr.to.int$ -- 5
-cite$ -- 8
-duplicate$ -- 65
-empty$ -- 128
+* -- 172
+:= -- 334
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 39
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 55
+empty$ -- 110
 format.name$ -- 44
-if$ -- 383
+if$ -- 345
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 4
-newline$ -- 26
+newline$ -- 23
 num.names$ -- 12
-pop$ -- 36
+pop$ -- 29
 preamble$ -- 1
-purify$ -- 44
+purify$ -- 39
 quote$ -- 0
-skip$ -- 50
+skip$ -- 44
 stack$ -- 0
-substring$ -- 130
+substring$ -- 117
 swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 30
-warning$ -- 2
+type$ -- 24
+warning$ -- 0
 while$ -- 12
 width$ -- 0
-write$ -- 61
-(There were 3 warnings)
+write$ -- 54

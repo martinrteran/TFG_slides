@@ -31,11 +31,12 @@
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{caption}
 \usepackage[font={tiny,color=ashgrey},skip=0pt]{subcaption}
 \usepackage{changepage}
+\usepackage{tikz}
 %\usepackage[ backend=biber,style=authortitle,]{biblatex}
 
 \usetheme{Berlin}%Berlin}Luebeck
 \usecolortheme[named=chromeyellow]{structure}
-%\usecolortheme{whale}
+%\usecolortheme{lily}
 
 \sloppy
 \epstopdfsetup{outdir=./pdf}
@@ -108,12 +109,18 @@
     urlcolor=ashgrey,
 }
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%   TITLE PAGE
 \title[\color{white} \tiny Modelado y simulación de espaciadores nanométricos para su aplicación en dispositivos TPVs de campo cercano]{\LARGE Modelado y simulación de espaciadores nanométricos para su aplicación en dispositivos TPVs de campo cercano}
 \author[Martin Augusto Reigadas Teran]{\large Martin Augusto Reigadas Teran}
-\institute{Universidad Politécnica de Madrid}
-\date{Septiembre, 2022}
+\date{}
+\institute{Septiembre, 2022}
+\newcommand\InsName{%
+  \parbox{.63\textwidth}{%
+  \footnotesize\centering Universidad Politécnica de Madrid\\ \vspace{.08cm} Escuela Técnica Superior de Ingeniería y Diseño Industrial\vspace{.1cm} \tiny Grado en Ingeniería Electrónica Industrial y Automática}%
+}
 
+\def\Put(#1,#2)#3{\leavevmode\makebox(0,0){\put(#1,#2){#3}}}
  %%% TABLES OF CONTENTS
 \AtBeginSection[]
 {
@@ -149,25 +156,53 @@
 		\setbeamercolor{institute in head/foot}{use=palette secondary, fg=palette secondary.bg}
 		\setbeamercolor{section in head/foot}{use=palette tertiary, fg=palette tertiary.bg}
 		\setbeamercolor{subsection in head/foot}{use=palette secondary, fg=palette secondary.bg} 
-
+		
+		\begingroup
+		\setbeamertemplate{headline}{\vspace{0.3cm}%
+		\centering
+			%\hspace*{0.8cm}%
+			%\rule{.15\textwidth}{1.5cm}
+			\includegraphics[width=2cm]{figuras/logo_UPM}% \includegraphics for logo 1 goes here
+			\raisebox{.6cm}{\InsName}
+			%\rule{.15\textwidth}{1.5cm}
+			\includegraphics[width=2.5cm]{figuras/logo_ETSIDI}% \includegraphics for logo 2 goes here
+			\hspace*{0.1cm}%
+		}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		%                     TITULO                           %
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		\begin{frame}
+		\begin{adjustwidth}{-2em}{-2em}
+		\vspace{1cm}
+		%\includegraphics[width=\linewidth,height=.2\textheight]{figuras/cabecera}
+		%\vspace{-.2cm}
+			%\Put(0,-1cm){\includegraphics[width=2cm]{figuras/logo_UPM}}
+			%\Put(0,2cm){}
 			\titlepage
-			\begin{minipage}[l]{0.48\textwidth}
-			\begin{flushleft}
-				\footnotesize \itshape  Tutor: Pablo García-Linares Fontes\\
-				\tiny Departamento de Ingeniería Eléctrica, Electrónica, Automática y
-		Física Aplicada		
-			\end{flushleft}
-			\end{minipage}\hfill
-			\begin{minipage}[r]{0.48\textwidth}
-			\begin{flushright}
-				\footnotesize \itshape Cotutora: Esther López Estrada\\
-				 \tiny Instituto de Energía Solar\\
+			%\begin{titlepage}
+				%\includegraphics[width=\linewidth,height=.1\textheight]{figuras/cabecera.png}
 				
-						
-			\end{flushright}
-			\end{minipage}
+				\vspace{-.7cm}
+				\begin{minipage}[l]{0.48\textwidth}
+				\begin{flushleft}
+					\footnotesize \itshape  Tutor: Pablo García-Linares Fontes\\
+					\tiny Departamento de Ingeniería Eléctrica, Electrónica, Automática y
+			Física Aplicada		
+				\end{flushleft}
+				\end{minipage}\hfill
+				\begin{minipage}[r]{0.48\textwidth}
+				\begin{flushright}
+					\footnotesize \itshape Cotutora: Esther López Estrada\\
+					 \tiny Instituto de Energía Solar\\
+					
+							
+				\end{flushright}
+				\end{minipage}
+			%\end{titlepage}
+			
+			\end{adjustwidth}
 		\end{frame}
+		\endgroup
 	}
 
 	%%  TABLA DE CONTENIDOS
@@ -184,34 +219,33 @@
 	\begin{frame}{Introducción}
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		%           DEMANDA Y CONSUMO DE ENERGÍA   
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		\only<1>{
-			\vspace{10pt}	
-			%% FIGURAS DE DEMANDAS
-			\begin{figure}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		\vspace{10pt}	
+		%% FIGURAS DE DEMANDAS
+		\begin{figure}
+			\centering
+			\begin{subfigure}[b]{0.58\textwidth}
+			\centering
+				\includegraphics[width=\textwidth]{DemandaEnergiaPrimariaProporcion1990.png}
+				\caption*{Fuente de datos: Ministerio para la transición ecológica y el reto demográfico de España.}
+			\end{subfigure} \hfill
+			\begin{subfigure}[b]{0.4\textwidth}
 				\centering
-				\begin{subfigure}[b]{0.58\textwidth}
-				\centering
-					\includegraphics[width=\textwidth]{DemandaEnergiaPrimariaProporcion1990.png}
-					\caption*{Fuente de datos: Ministerio para la transición ecológica y el reto demográfico de España.}
-				\end{subfigure} \hfill
-				\begin{subfigure}[b]{0.4\textwidth}
-					\centering
-					\includegraphics[width=\textwidth]{consumoEnergiaFinalPorSectores_2019.png}
-					\caption*{Fuente: Ministerio para la transición ecológica y el reto demográfico de España (2019).}
-				\end{subfigure}
-				\label{fig:demandaYconsumo}
-			\end{figure}
-		}
+				\includegraphics[width=\textwidth]{consumoEnergiaFinalPorSectores_2019.png}
+				\caption*{Fuente: Ministerio para la transición ecológica y el reto demográfico de España (2019).}
+			\end{subfigure}
+			\label{fig:demandaYconsumo}
+		\end{figure}
+	\end{frame}
+	\begin{frame}{Introducción}
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		%         MECANISMOS DE GENERACIÓN Y RECUPERACIÓN DE CALOR MECÁNICOS
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		\only<2-5>{
 		\vspace{-10pt}
 		%%  FIGURAS SISTEMAS MECANICOS DE GENERACION
 		\begin{figure}[htbp]
 			\centering
-			\onslide<2-5>{
+			\onslide<1->{
 				\begin{subfigure}[b]{0.55\textwidth}
 					\centering
 						\includegraphics[width=\textwidth]{esquemasLomasValorizacion}
@@ -219,14 +253,14 @@
 				\end{subfigure}\hfill
 			}
 			%
-			\onslide<3-5>{
+			\onslide<2->{
 				\begin{subfigure}[b]{0.4\textwidth}
 					\includegraphics[width=\textwidth]{cicloCombinado}
 					\caption*{Ciclo combinado. Fuente: Wikipedia.}
 				\end{subfigure} \hfill
 			}
 			%
-			\onslide<4-5>{
+			\onslide<3->{
 				\begin{subfigure}[b]{0.38\textwidth}
 					\vspace{-5pt}
 					\includegraphics[height=0.4\textheight,width=\textwidth,angle=0]{TEG}
@@ -234,7 +268,7 @@
 				\end{subfigure}
 				\hfill
 			}
-			\onslide<5>{
+			\onslide<4>{
 				\begin{subfigure}[b]{0.48\textwidth}
 					\vspace{-1cm}
 					\includegraphics[width=\textwidth]{iTPV}
@@ -243,49 +277,37 @@
 			}
 			%
 			\label{fig:valdemingomez_cc_TEG_iTPV}
-			\end{figure}
-		}
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		%           	TERMO-FOTOVOLTAICA
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		\only<6->{
-			\begin{figure}[ht]
+		\end{figure}
+	\end{frame}
+	\begin{frame}{Introducción}
+		\begin{figure}[ht]
+			\centering
+			\onslide<1->{
+				%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+				%           	TERMO-FOTOVOLTAICA
+				%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+				\hfill
+				\begin{subfigure}[b]{0.4\textwidth}
 					\centering
-					\only<6>{
-						\frametitle{Termo-fotovoltaica}
-						\begin{subfigure}[b]{0.48\textwidth}
-							\centering
-							\includegraphics[width=1.00\textwidth]{PV_Effect}
-							\caption*{Efecto fotovoltaico. Fuente: \cite{picPvEffect}}
-							\label{fig:PV_Effect}
-						\end{subfigure}
-					}
-						%		
-			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-			%                    CAMPO CERCANO
-			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-				\only<6->{
-					\hfill
-					\begin{subfigure}[b]{0.4\textwidth}
-						\centering
-							\includegraphics[width=1.00\textwidth]{TPV_40_BSR}
-						\caption*{Efecto fotovoltaico. Fuente: \cite{thermophotovoltaic_40}}
-						\label{fig:PV_Effect}
-					\end{subfigure}
-					}
-					%
-					\only<7->{
-						\frametitle{Efecto de campo cercano}
-						\hfill
-						\begin{subfigure}[b]{0.48\textwidth}
-								\includegraphics[width=1.00\textwidth]{graficaDiff_dc_fullEqu}
-							\caption*{Radiación campo cercano. Fuente: \cite{nfTPV_fullEquations}}
-							\label{fig:PV_Effect}
-						\end{subfigure}
-					}
-				\label{fig:TPV}
-			\end{figure}
-		}
+						\includegraphics[width=1.00\textwidth]{TPV_40_BSR}
+					\caption*{TPV. Fuente: \cite{thermophotovoltaic_40}}
+					\label{fig:PV_Effect}
+				\end{subfigure}
+			}
+				%
+			\onslide<2->{
+				%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+				%                    CAMPO CERCANO
+				%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%					
+				\hfill
+				\begin{subfigure}[b]{0.48\textwidth}
+						\includegraphics[width=1.00\textwidth]{graficaDiff_dc_fullEqu}
+					\caption*{Radiación campo cercano. Fuente: \cite{nfTPV_fullEquations}}
+					\label{fig:PV_Effect}
+				\end{subfigure}
+			}
+			\label{fig:TPV}
+		\end{figure}
 	\end{frame}
 
 %%  CONSIDERACIONES PREVIAS
@@ -816,73 +838,6 @@
 
 	\end{frame}
 	
-	\subsection{Nano-espaciadores de Si}
-	\begin{frame}{Nano-espaciadores de Si}
-	\resDiffMatEspPath
-	\only<1>{ %%%   CONDUCCION
-			\frametitle{Conducción}
-			
-			\begin{columns}
-			%%
-				\column{.5\textwidth}
-					%\vspace{-10pt}
-						\begin{block}{\centering Nano-espaciadores de Si }
-						\end{block}
-					\vspace{15pt}
-						\begin{figure}[h]%
-								\centering
-										\includegraphics[width=\columnwidth]{Prc_XxSiGe}
-								\label{fig:Prc_XxSiGe}%Pn_SiCSiO2Ge
-						\end{figure}
-						\vfill
-						%%
-				\column{.5\textwidth}
-					\vspace{-12pt}
-						\begin{block}{\centering Nano-espaciadores de SiO2}
-							\end{block}
-					\vspace{16pt}\vfill
-						\begin{figure}[h]%
-								\centering
-										\includegraphics[width=\columnwidth]{Prc_XxSiO2Ge}%
-								\label{fig:Prc_XxSiO2Ge}%
-						\end{figure}
-						\vfill
-				\end{columns}				
-				\vfill
-		}
-		
-			\only<2>{ %%%   DENSIDADES
-			\frametitle{Densidad de nano-espaciadores para emisor de $SiC$}
-			
-			\begin{columns}
-			%%
-				\column{.5\textwidth}
-					%\vspace{-10pt}
-						\begin{block}{\centering Nano-espaciadores de Si }
-						\end{block}
-					\vspace{15pt}
-						\begin{figure}[h]%
-								\centering
-										\includegraphics[width=\columnwidth]{rel_SiC}
-								\label{fig:rel_SiC}%Pn_SiCSiO2Ge
-						\end{figure}
-						\vfill
-						%%
-				\column{.5\textwidth}
-					\vspace{-14pt}
-						\begin{block}{\centering Nano-espaciadores de SiO2}
-							\end{block}
-					\vspace{16pt}\vfill
-						\begin{figure}[h]%
-								\centering
-										\includegraphics[width=\columnwidth]{SiC_Rc}%
-								\label{fig:SiC_Rc}%
-						\end{figure}
-						\vfill
-				\end{columns}	
-				\vfill
-		}
-	\end{frame}
 %% CONCLUSIONES
 	\section{Conclusiones}
 	\begin{frame}{Conclusiones}
@@ -906,15 +861,14 @@
 				\item<7> El material de emisor afecta principalmente a la radiación.
 			\end{itemize}			
 	}	
-	\only<8->{
-		\frametitle{Desarrollos a futuro}
+	\end{frame}
+	\begin{frame}{Estudios a futuro}
 		\begin{itemize}
-			\item<8-> Estudiar en detalle la resistencia de contacto.
-			\item<9-> Diferentes materiales de nano-espaciadores
-			\item<10-> Sistemas multi-capa en emisor y uso de células multi-uniones.
-			\item<11-> Diseñar una app para cálculos de rad. de campo cercano de sistemas multi-capa.			
+			\item<1-> Estudiar en detalle la resistencia de contacto.
+			\item<2-> Diferentes materiales de nano-espaciadores
+			\item<3-> Sistemas multi-capa en emisor y uso de células multi-uniones.
+			\item<4-> Diseñar una app para cálculos de rad. de campo cercano de sistemas multi-capa.			
 		\end{itemize}
-	}
 	\end{frame}
 
 %% FINAL

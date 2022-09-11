@@ -7,5 +7,4 @@
 \beamer@subsectionintoc {3}{3}{nTPV SS-SiO2-Ge}{29}{0}{3}
 \beamer@subsectionintoc {3}{4}{nTPV SiC-SiO2-Ge}{33}{0}{3}
 \beamer@subsectionintoc {3}{5}{Densidad de carga}{38}{0}{3}
-\beamer@subsectionintoc {3}{6}{Nano-espaciadores de Si}{40}{0}{3}
-\beamer@sectionintoc {4}{Conclusiones}{43}{0}{4}
+\beamer@sectionintoc {4}{Conclusiones}{40}{0}{4}

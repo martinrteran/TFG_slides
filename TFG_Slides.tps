@@ -10,37 +10,19 @@ MinPos.y=-1
 MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
-NormalPos.top=26
-NormalPos.right=1066
-NormalPos.bottom=529
-Class=BibTeXView
-Document=bibliografia\bibliografia.bib
-
-[Frame0_View0,0]
-TopLine=925
-Cursor=49165
-
-[Frame1]
-Flags=0
-ShowCmd=1
-MinPos.x=-1
-MinPos.y=-1
-MaxPos.x=-1
-MaxPos.y=-1
-NormalPos.left=4
-NormalPos.top=26
-NormalPos.right=1066
-NormalPos.bottom=529
+NormalPos.top=4
+NormalPos.right=1339
+NormalPos.bottom=533
 Class=LaTeXView
 Document=TFG_Slides.tex
 
-[Frame1_View0,0]
-TopLine=835
-Cursor=25824
+[Frame0_View0,0]
+TopLine=284
+Cursor=9537
 
 [SessionInfo]
-FrameCount=2
-ActiveFrame=1
+FrameCount=1
+ActiveFrame=0
 
 [Bookmarks]
 TFG_Slides.tex=102 

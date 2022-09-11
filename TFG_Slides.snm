@@ -1,4 +1,10 @@
 \beamer@slide {fig:demandaYconsumo}{4}
+\beamer@slide {fig:valdemingomez_cc_TEG_iTPV}{5}
+\beamer@slide {fig:PV_Effect}{9}
+\beamer@slide {sub@fig:PV_Effect}{9}
+\beamer@slide {fig:PV_Effect}{9}
+\beamer@slide {sub@fig:PV_Effect}{9}
+\beamer@slide {fig:TPV}{9}
 \beamer@slide {fig:modelado3D_centro_cerca}{12}
 \beamer@slide {sub@fig:modelado3D_centro_cerca}{12}
 \beamer@slide {fig:CuestionesPrevias}{12}
@@ -12,5 +18,3 @@
 \beamer@slide {}{30}
 \beamer@slide {fig:SiCSiO2Ge_cond}{34}
 \beamer@slide {fig:SiCSiO2Ge_condRc}{34}
-\beamer@slide {fig:Prc_XxSiGe}{41}
-\beamer@slide {fig:Prc_XxSiO2Ge}{41}

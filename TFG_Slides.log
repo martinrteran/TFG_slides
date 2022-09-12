@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.2)  10 SEP 2022 00:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.2)  12 SEP 2022 02:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1081,6 +1081,13 @@ File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
 ) (TFG_Slides.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
+
+
+LaTeX Warning: Label `fig:PV_Effect' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:PV_Effect' multiply defined.
+
 )
 \openout1 = `TFG_Slides.aux'.
 
@@ -1497,7 +1504,7 @@ png Graphic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_centro_cerca.p
 ng>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/model
-ado3D_centro_cerca.png  used on input line 353.
+ado3D_centro_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 122.91406pt x 92.78473pt.
  [12
 
@@ -1509,14 +1516,14 @@ File: ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_cerca.png Gra
 phic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_cerca.png>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/model
-ado3D_cerca.png  used on input line 353.
+ado3D_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 153.64493pt x 84.0455pt.
 File: ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_centro_cerca.
 png Graphic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_centro_cerca.p
 ng>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/model
-ado3D_centro_cerca.png  used on input line 353.
+ado3D_centro_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 122.91406pt x 92.78473pt.
  [13
 
@@ -1525,14 +1532,14 @@ File: ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_cerca.png Gra
 phic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_cerca.png>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/model
-ado3D_cerca.png  used on input line 353.
+ado3D_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 153.64493pt x 84.0455pt.
 File: ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_centro_cerca.
 png Graphic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_centro_cerca.p
 ng>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/model
-ado3D_centro_cerca.png  used on input line 353.
+ado3D_centro_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 122.91406pt x 92.78473pt.
 <./figuras/Procedimiento_Simulaciones//Conduccion/nTPV_lejos.png, id=805, 1027.
 58907pt x 494.59781pt>
@@ -1540,10 +1547,10 @@ File: ./figuras/Procedimiento_Simulaciones//Conduccion/nTPV_lejos.png Graphic f
 ile (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/nTPV_lejos.png>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/nTPV_
-lejos.png  used on input line 353.
+lejos.png  used on input line 354.
 (pdftex.def)             Requested size: 205.88364pt x 99.09138pt.
 
-Overfull \vbox (24.33878pt too high) detected at line 353
+Overfull \vbox (24.33878pt too high) detected at line 354
  []
 
 [14
@@ -1553,7 +1560,7 @@ File: ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_cerca.png Gra
 phic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_cerca.png>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/model
-ado3D_cerca.png  used on input line 353.
+ado3D_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 153.64493pt x 84.0455pt.
 <./figuras/Procedimiento_Simulaciones//Conduccion/mallado_100_cerca.png, id=835
 , 1224.82594pt x 636.87938pt>
@@ -1561,61 +1568,61 @@ File: ./figuras/Procedimiento_Simulaciones//Conduccion/mallado_100_cerca.png Gr
 aphic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/mallado_100_cerca.png>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/malla
-do_100_cerca.png  used on input line 353.
+do_100_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 162.86325pt x 84.68251pt.
 File: ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_centro_cerca.
 png Graphic file (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/modelado3D_centro_cerca.p
 ng>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/model
-ado3D_centro_cerca.png  used on input line 353.
+ado3D_centro_cerca.png  used on input line 354.
 (pdftex.def)             Requested size: 122.91406pt x 92.78473pt.
 File: ./figuras/Procedimiento_Simulaciones//Conduccion/nTPV_lejos.png Graphic f
 ile (type png)
 <use ./figuras/Procedimiento_Simulaciones//Conduccion/nTPV_lejos.png>
 Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Conduccion/nTPV_
-lejos.png  used on input line 353.
+lejos.png  used on input line 354.
 (pdftex.def)             Requested size: 205.88364pt x 99.09138pt.
 
-Overfull \vbox (16.23656pt too high) detected at line 353
+Overfull \vbox (16.23656pt too high) detected at line 354
  []
 
 [15
 
  <./figuras/Procedimiento_Simulaciones//Conduccion/mallado_100_cerca.png (PNG c
 opy)>]
-<./figuras/Procedimiento_Simulaciones//Radiacion/ejemplo_final_simulacion_radP.
-png, id=865, 721.94719pt x 450.18187pt>
-File: ./figuras/Procedimiento_Simulaciones//Radiacion/ejemplo_final_simulacion_
-radP.png Graphic file (type png)
-<use ./figuras/Procedimiento_Simulaciones//Radiacion/ejemplo_final_simulacion_r
-adP.png>
-Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Radiacion/ejempl
-o_final_simulacion_radP.png  used on input line 376.
-(pdftex.def)             Requested size: 190.51822pt x 118.79617pt.
+<./figuras/Procedimiento_Simulaciones//Radiacion/pestana_PotenciaRadiada2.png, 
+id=865, 727.96968pt x 454.69875pt>
+File: ./figuras/Procedimiento_Simulaciones//Radiacion/pestana_PotenciaRadiada2.
+png Graphic file (type png)
+<use ./figuras/Procedimiento_Simulaciones//Radiacion/pestana_PotenciaRadiada2.p
+ng>
+Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Radiacion/pestan
+a_PotenciaRadiada2.png  used on input line 380.
+(pdftex.def)             Requested size: 190.51822pt x 118.99596pt.
  [16
 
- <./figuras/Procedimiento_Simulaciones//Radiacion/ejemplo_final_simulacion_radP
-.png>]
-File: ./figuras/Procedimiento_Simulaciones//Radiacion/ejemplo_final_simulacion_
-radP.png Graphic file (type png)
-<use ./figuras/Procedimiento_Simulaciones//Radiacion/ejemplo_final_simulacion_r
-adP.png>
-Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Radiacion/ejempl
-o_final_simulacion_radP.png  used on input line 376.
-(pdftex.def)             Requested size: 190.51822pt x 118.79617pt.
+ <./figuras/Procedimiento_Simulaciones//Radiacion/pestana_PotenciaRadiada2.png>
+]
+File: ./figuras/Procedimiento_Simulaciones//Radiacion/pestana_PotenciaRadiada2.
+png Graphic file (type png)
+<use ./figuras/Procedimiento_Simulaciones//Radiacion/pestana_PotenciaRadiada2.p
+ng>
+Package pdftex.def Info: ./figuras/Procedimiento_Simulaciones//Radiacion/pestan
+a_PotenciaRadiada2.png  used on input line 380.
+(pdftex.def)             Requested size: 190.51822pt x 118.99596pt.
 <figuras/rad_mat/EgRad.png, id=899, 375.3222pt x 310.2792pt>
 File: figuras/rad_mat/EgRad.png Graphic file (type png)
 <use figuras/rad_mat/EgRad.png>
-Package pdftex.def Info: figuras/rad_mat/EgRad.png  used on input line 376.
+Package pdftex.def Info: figuras/rad_mat/EgRad.png  used on input line 380.
 (pdftex.def)             Requested size: 147.49782pt x 121.93636pt.
  [17
 
- <./figuras/rad_mat/EgRad.png (PNG copy)>]
-(TFG_Slides.toc
+ <./figuras/rad_mat/EgRad.png (PNG copy)>] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [18
+)
+[18
 
 ] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1628,178 +1635,174 @@ LaTeX Info: Redefining \% on input line 1.
 ) [20
 
 ]
-<./figuras/Resultados/conduccion//Pn_SiSiO2Si.pdf, id=1041, 380.42125pt x 310.1
-5875pt>
+<./figuras/Resultados/conduccion//Pn_SiSiO2Si.pdf, id=1041, 380.42125pt x 295.1
+025pt>
 File: ./figuras/Resultados/conduccion//Pn_SiSiO2Si.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/conduccion//Pn_SiSiO2Si.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Pn_SiSiO2Si.pdf  used
- on input line 511.
-(pdftex.def)             Requested size: 138.2795pt x 112.74083pt.
+ on input line 439.
+(pdftex.def)             Requested size: 138.2795pt x 107.26797pt.
 <./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane2.png, id=1042, 913.9143
 7pt x 432.11438pt>
 File: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane2.png Graphic file 
 (type png)
 <use ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane2.png>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane
-2.png  used on input line 511.
+2.png  used on input line 439.
 (pdftex.def)             Requested size: 125.98996pt x 59.5659pt.
-<./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf, id=1043, 380.42125pt x 310
-.15875pt>
+<./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf, id=1043, 380.42125pt x 295
+.1025pt>
 File: ./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf Graphic file (type pdf
 )
 <use ./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc2_SiSiO2Si.pdf  us
-ed on input line 511.
-(pdftex.def)             Requested size: 138.2795pt x 112.74083pt.
+ed on input line 439.
+(pdftex.def)             Requested size: 138.2795pt x 107.26797pt.
 <./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png, id=1044, 755.07
 094pt x 368.87813pt>
 File: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png Graphic fil
 e (type png)
 <use ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane
-_Rc.png  used on input line 511.
+_Rc.png  used on input line 439.
 (pdftex.def)             Requested size: 122.9164pt x 60.04611pt.
  [21
 
  <./figuras/Resultados/conduccion//Pn_SiSiO2Si.pdf> <./figuras/Resultados/condu
 ccion//SiSiO2Si_1000nm_Plane2.png> <./figuras/Resultados/conduccion//Prc2_SiSiO
 2Si.pdf> <./figuras/Resultados/conduccion//SiSiO2Si_1000nm_Plane_Rc.png>]
-<./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf, id=1187, 380.42125pt x 315
-.1775pt>
+<./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf, id=1151, 380.42125pt x 295
+.1025pt>
 File: ./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf Graphic file (type pdf
 )
 <use ./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf  us
-ed on input line 511.
-(pdftex.def)             Requested size: 169.01036pt x 140.0251pt.
+ed on input line 457.
+(pdftex.def)             Requested size: 169.01036pt x 131.1063pt.
  [22
 
  <./figuras/Resultados/conduccion//Ppor_SiSiO2Si.pdf>]
-<./figuras/Resultados/radiacion//SiSi_ds.pdf, id=1281, 449.68pt x 302.12875pt>
+<./figuras/Resultados/radiacion//SiSi_ds.pdf, id=1228, 449.68pt x 302.12875pt>
 File: ./figuras/Resultados/radiacion//SiSi_ds.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SiSi_ds.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SiSi_ds.pdf  used on i
-nput line 511.
+nput line 487.
 (pdftex.def)             Requested size: 153.64493pt x 103.22952pt.
-<./figuras/Resultados/radiacion//p_11_SiSi.pdf, id=1282, 396.48125pt x 291.0875
+<./figuras/Resultados/radiacion//p_11_SiSi.pdf, id=1229, 396.48125pt x 291.0875
 pt>
 File: ./figuras/Resultados/radiacion//p_11_SiSi.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//p_11_SiSi.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//p_11_SiSi.pdf  used on
- input line 511.
+ input line 487.
 (pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
  [23
 
  <./figuras/Resultados/radiacion//SiSi_ds.pdf> <./figuras/Resultados/radiacion/
 /p_11_SiSi.pdf>]
-<./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf, id=1509, 374.39874pt x 3
-08.15125pt>
+<./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf, id=1458, 375.3222pt x 29
+4.8616pt>
 File: ./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf Graphic file (type p
 df)
 <use ./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf  
-used on input line 511.
-(pdftex.def)             Requested size: 153.64493pt x 126.46037pt.
-<./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pdf, id=1510, 369.38pt x 3
-10.15875pt>
+used on input line 517.
+(pdftex.def)             Requested size: 153.64493pt x 120.70956pt.
+<./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pdf, id=1459, 370.5042pt x
+ 294.8616pt>
 File: ./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pdf Graphic file (typ
 e pdf)
 <use ./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pdf>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//rel_SiSi11_Rc.pd
-f  used on input line 511.
-(pdftex.def)             Requested size: 153.64493pt x 129.01163pt.
+f  used on input line 517.
+(pdftex.def)             Requested size: 153.64493pt x 122.27528pt.
  [24
 
- <./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf> <./figuras/Resultados/R
-elacionCondRad//rel_SiSi11_Rc.pdf>] (TFG_Slides.toc
+ <./figuras/Resultados/RelacionCondRad//rel_SiSi11.pdf (PNG copy)> <./figuras/R
+esultados/RelacionCondRad//rel_SiSi11_Rc.pdf (PNG copy)>] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [25
 
 ]
-<./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf, id=1785, 386.44376pt x 310.1
-5875pt>
+<./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf, id=1532, 386.44376pt x 295.1
+025pt>
 File: ./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf  used
- on input line 642.
-(pdftex.def)             Requested size: 153.64493pt x 123.31354pt.
-<./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf, id=1786, 380.42125pt x 310
-.15875pt>
+ on input line 550.
+(pdftex.def)             Requested size: 153.64493pt x 117.32744pt.
+<./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf, id=1533, 380.42125pt x 305
+.14pt>
 File: ./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf Graphic file (type pdf
 )
 <use ./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc2_SiSiO2Ge.pdf  us
-ed on input line 642.
-(pdftex.def)             Requested size: 153.64493pt x 125.26811pt.
-
-Overfull \vbox (1.93727pt too high) detected at line 642
- []
-
-[26
+ed on input line 550.
+(pdftex.def)             Requested size: 153.64493pt x 123.24112pt.
+ [26
 
  <./figuras/Resultados/conduccion//Pn_SiSiO2Ge.pdf> <./figuras/Resultados/condu
 ccion//Prc2_SiSiO2Ge.pdf>]
-<./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf, id=1932, 446.66875pt x 302.1
+<./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf, id=1652, 446.66875pt x 302.1
 2875pt>
 File: ./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf  used
- on input line 642.
+ on input line 580.
 (pdftex.def)             Requested size: 153.64493pt x 103.92564pt.
-<./figuras/Resultados/radiacion//p_Eg_SiGe.pdf, id=1933, 396.48125pt x 291.0875
+<./figuras/Resultados/radiacion//p_Eg_SiGe.pdf, id=1653, 396.48125pt x 291.0875
 pt>
 File: ./figuras/Resultados/radiacion//p_Eg_SiGe.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//p_Eg_SiGe.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//p_Eg_SiGe.pdf  used on
- input line 642.
+ input line 580.
 (pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
- [27
+[27
 
  <./figuras/Resultados/radiacion//SiSi_vs_SiGe.pdf> <./figuras/Resultados/radia
 cion//p_Eg_SiGe.pdf>]
-Overfull \hbox (9.3401pt too wide) in paragraph at lines 642--642
+Overfull \hbox (9.3401pt too wide) in paragraph at lines 645--645
 [][] 
  []
 
-<./figuras/Resultados/RelacionCondRad//SiGe.png, id=2146, 370.0224pt x 294.8616
+<./figuras/Resultados/RelacionCondRad//SiGe.png, id=1868, 370.0224pt x 294.8616
 pt>
 File: ./figuras/Resultados/RelacionCondRad//SiGe.png Graphic file (type png)
 <use ./figuras/Resultados/RelacionCondRad//SiGe.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiGe.png  used o
-n input line 642.
+n input line 645.
 (pdftex.def)             Requested size: 110.62401pt x 88.15321pt.
 
-Overfull \hbox (9.3401pt too wide) in paragraph at lines 642--642
+Overfull \hbox (9.3401pt too wide) in paragraph at lines 645--645
 [][] 
  []
 
-<./figuras/Resultados/RelacionCondRad//SiGe_full.png, id=2147, 372.9132pt x 294
+<./figuras/Resultados/RelacionCondRad//SiGe_full.png, id=1869, 372.9132pt x 294
 .8616pt>
 File: ./figuras/Resultados/RelacionCondRad//SiGe_full.png Graphic file (type pn
 g)
 <use ./figuras/Resultados/RelacionCondRad//SiGe_full.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiGe_full.png  u
-sed on input line 642.
+sed on input line 645.
 (pdftex.def)             Requested size: 110.62401pt x 87.46933pt.
-<./figuras/Resultados/RelacionCondRad//SiGe_Rc.png, id=2148, 372.9132pt x 294.8
+<./figuras/Resultados/RelacionCondRad//SiGe_Rc.png, id=1870, 372.9132pt x 294.8
 616pt>
 File: ./figuras/Resultados/RelacionCondRad//SiGe_Rc.png Graphic file (type png)
 
 <use ./figuras/Resultados/RelacionCondRad//SiGe_Rc.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiGe_Rc.png  use
-d on input line 642.
+d on input line 645.
 (pdftex.def)             Requested size: 112.00604pt x 88.56264pt.
-<./figuras/Resultados/RelacionCondRad//SiGe_Rc_full.png, id=2149, 383.9946pt x 
-294.8616pt>
+<./figuras/Resultados/RelacionCondRad//SiGe_Rc_full.png, id=1871, 383.9946pt x 
+308.352pt>
 File: ./figuras/Resultados/RelacionCondRad//SiGe_Rc_full.png Graphic file (type
  png)
 <use ./figuras/Resultados/RelacionCondRad//SiGe_Rc_full.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiGe_Rc_full.png
-  used on input line 642.
-(pdftex.def)             Requested size: 112.00604pt x 86.00708pt.
+  used on input line 645.
+(pdftex.def)             Requested size: 112.00604pt x 89.94205pt.
 
-Overfull \vbox (1.11037pt too high) detected at line 642
+Overfull \vbox (1.52841pt too high) detected at line 645
  []
 
 [28
@@ -1813,102 +1816,94 @@ LaTeX Info: Redefining \% on input line 1.
 ) [29
 
 ]
-<./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf, id=2219, 386.44376pt x 310.1
-5875pt>
+<./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf, id=1943, 386.44376pt x 295.1
+025pt>
 File: ./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf  used
- on input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 94.70476pt.
-<./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf, id=2220, 380.42125pt x 
-315.1775pt>
+ on input line 667.
+(pdftex.def)             Requested size: 117.9987pt x 90.10744pt.
+<./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf, id=1944, 380.42125pt x 
+295.1025pt>
 File: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf Graphic file (type 
 pdf)
 <use ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Emp.pdf 
- used on input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 97.76172pt.
-<./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pdf, id=2221, 391.4625pt x
- 315.1775pt>
+ used on input line 667.
+(pdftex.def)             Requested size: 117.9987pt x 91.53485pt.
+<./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pdf, id=1945, 391.4625pt x
+ 295.1025pt>
 File: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pdf Graphic file (typ
 e pdf)
 <use ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Inter.pd
-f  used on input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 95.00124pt.
-<./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf, id=2222, 391.4625pt x 3
-15.1775pt>
+f  used on input line 667.
+(pdftex.def)             Requested size: 117.9987pt x 88.9502pt.
+<./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf, id=1946, 392.46625pt x 
+295.1025pt>
 File: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf Graphic file (type 
 pdf)
 <use ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf 
- used on input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 95.00124pt.
+ used on input line 667.
+(pdftex.def)             Requested size: 117.9987pt x 88.72505pt.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 718.
-
-
-Overfull \vbox (6.0256pt too high) detected at line 718
- []
+Package hyperref Warning: Ignoring empty anchor on input line 667.
 
 [30
 
  <./figuras/Resultados/conduccion//Pn_SsSiO2Ge.pdf> <./figuras/Resultados/condu
 ccion//Prc_SsSiO2Ge_Emp.pdf> <./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Int
 er.pdf> <./figuras/Resultados/conduccion//Prc_SsSiO2Ge_Max.pdf>]
-<./figuras/Resultados/radiacion//SsGe.pdf, id=2497, 449.68pt x 302.12875pt>
+<./figuras/Resultados/radiacion//SsGe.pdf, id=2158, 449.68pt x 302.12875pt>
 File: ./figuras/Resultados/radiacion//SsGe.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SsGe.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SsGe.pdf  used on inpu
-t line 718.
+t line 697.
 (pdftex.def)             Requested size: 153.64493pt x 103.22952pt.
-<./figuras/Resultados/radiacion//p_Eg_SsGe.pdf, id=2498, 396.48125pt x 291.0875
+<./figuras/Resultados/radiacion//p_Eg_SsGe.pdf, id=2159, 396.48125pt x 291.0875
 pt>
 File: ./figuras/Resultados/radiacion//p_Eg_SsGe.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//p_Eg_SsGe.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//p_Eg_SsGe.pdf  used on
- input line 718.
+ input line 697.
 (pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
  [31
 
  <./figuras/Resultados/radiacion//SsGe.pdf> <./figuras/Resultados/radiacion//p_
 Eg_SsGe.pdf>]
-<./figuras/Resultados/RelacionCondRad//SS.png, id=2712, 370.0224pt x 308.352pt>
-
+<./figuras/Resultados/RelacionCondRad//SS.png, id=2375, 370.0224pt x 294.8616pt
+>
 File: ./figuras/Resultados/RelacionCondRad//SS.png Graphic file (type png)
 <use ./figuras/Resultados/RelacionCondRad//SS.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS.png  used on 
-input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 98.33118pt.
-<./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.png, id=2713, 367.6134pt 
-x 308.352pt>
+input line 717.
+(pdftex.def)             Requested size: 117.9987pt x 94.02919pt.
+<./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.png, id=2376, 367.6134pt 
+x 294.8616pt>
 File: ./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.png Graphic file (ty
 pe png)
 <use ./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS_Rc_empirico.p
-ng  used on input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 98.97577pt.
-<./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio.png, id=2714, 384.4764p
-t x 308.352pt>
+ng  used on input line 717.
+(pdftex.def)             Requested size: 117.9987pt x 94.64558pt.
+<./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio.png, id=2377, 384.4764p
+t x 294.8616pt>
 File: ./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio.png Graphic file (
 type png)
 <use ./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS_Rc_Intermedio
-.png  used on input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 94.633pt.
-<./figuras/Resultados/RelacionCondRad//SS_Rc.png, id=2715, 375.3222pt x 308.352
-pt>
+.png  used on input line 717.
+(pdftex.def)             Requested size: 117.9987pt x 90.4928pt.
+<./figuras/Resultados/RelacionCondRad//SS_Rc.png, id=2378, 375.3222pt x 304.497
+6pt>
 File: ./figuras/Resultados/RelacionCondRad//SS_Rc.png Graphic file (type png)
 <use ./figuras/Resultados/RelacionCondRad//SS_Rc.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SS_Rc.png  used 
-on input line 718.
-(pdftex.def)             Requested size: 117.9987pt x 96.94318pt.
-
-Overfull \vbox (4.1816pt too high) detected at line 718
- []
-
-[32
+on input line 717.
+(pdftex.def)             Requested size: 117.9987pt x 95.7314pt.
+ [32
 
  <./figuras/Resultados/RelacionCondRad//SS.png (PNG copy)> <./figuras/Resultado
 s/RelacionCondRad//SS_Rc_empirico.png (PNG copy)> <./figuras/Resultados/Relacio
@@ -1919,75 +1914,67 @@ LaTeX Info: Redefining \% on input line 1.
 ) [33
 
 ]
-<./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf, id=2783, 380.42125pt x 310.
-15875pt>
+<./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf, id=2447, 380.42125pt x 295.
+1025pt>
 File: ./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf Graphic file (type pdf)
 
 <use ./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf  use
-d on input line 823.
-(pdftex.def)             Requested size: 153.64493pt x 125.26811pt.
-<./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf, id=2784, 380.42125pt x 310
-.15875pt>
+d on input line 749.
+(pdftex.def)             Requested size: 153.64493pt x 119.18713pt.
+<./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf, id=2448, 380.42125pt x 295
+.1025pt>
 File: ./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf Graphic file (type pdf
 )
 <use ./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf>
 Package pdftex.def Info: ./figuras/Resultados/conduccion//Prc_SiCSiO2Ge.pdf  us
-ed on input line 823.
-(pdftex.def)             Requested size: 153.64493pt x 125.26811pt.
-
-Overfull \vbox (3.89185pt too high) detected at line 823
- []
-
-[34
+ed on input line 749.
+(pdftex.def)             Requested size: 153.64493pt x 119.18713pt.
+ [34
 
  <./figuras/Resultados/conduccion//Pn_SiCSiO2Ge.pdf> <./figuras/Resultados/cond
 uccion//Prc_SiCSiO2Ge.pdf>]
-<./figuras/Resultados/radiacion//SiCvsSi_rad.pdf, id=2927, 455.7025pt x 302.128
+<./figuras/Resultados/radiacion//SiCvsSi_rad.pdf, id=2555, 455.7025pt x 302.128
 75pt>
 File: ./figuras/Resultados/radiacion//SiCvsSi_rad.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SiCvsSi_rad.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SiCvsSi_rad.pdf  used 
-on input line 823.
+on input line 779.
 (pdftex.def)             Requested size: 153.64493pt x 101.86493pt.
-<./figuras/Resultados/radiacion//SiCvsSi.pdf, id=2928, 396.48125pt x 291.0875pt
+<./figuras/Resultados/radiacion//SiCvsSi.pdf, id=2556, 396.48125pt x 291.0875pt
 >
 File: ./figuras/Resultados/radiacion//SiCvsSi.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SiCvsSi.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SiCvsSi.pdf  used on i
-nput line 823.
+nput line 779.
 (pdftex.def)             Requested size: 153.64493pt x 112.80411pt.
  [35
 
  <./figuras/Resultados/radiacion//SiCvsSi_rad.pdf> <./figuras/Resultados/radiac
 ion//SiCvsSi.pdf>]
-<./figuras/Resultados/RelacionCondRad//SiC_Ge.png, id=3133, 370.0224pt x 308.35
-2pt>
+<./figuras/Resultados/RelacionCondRad//SiC_Ge.png, id=2763, 370.0224pt x 294.86
+16pt>
 File: ./figuras/Resultados/RelacionCondRad//SiC_Ge.png Graphic file (type png)
 <use ./figuras/Resultados/RelacionCondRad//SiC_Ge.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiC_Ge.png  used
- on input line 823.
-(pdftex.def)             Requested size: 153.64493pt x 128.03897pt.
-<./figuras/Resultados/RelacionCondRad//SiC_Rc.png, id=3134, 372.9132pt x 308.35
-2pt>
+ on input line 808.
+(pdftex.def)             Requested size: 153.64493pt x 122.43726pt.
+<./figuras/Resultados/RelacionCondRad//SiC_Rc.png, id=2764, 372.9132pt x 294.86
+16pt>
 File: ./figuras/Resultados/RelacionCondRad//SiC_Rc.png Graphic file (type png)
 <use ./figuras/Resultados/RelacionCondRad//SiC_Rc.png>
 Package pdftex.def Info: ./figuras/Resultados/RelacionCondRad//SiC_Rc.png  used
- on input line 823.
-(pdftex.def)             Requested size: 153.64493pt x 127.0462pt.
-
-Overfull \vbox (1.6627pt too high) detected at line 823
- []
-
-[36
+ on input line 808.
+(pdftex.def)             Requested size: 153.64493pt x 121.48793pt.
+ [36
 
  <./figuras/Resultados/RelacionCondRad//SiC_Ge.png (PNG copy)> <./figuras/Resul
 tados/RelacionCondRad//SiC_Rc.png (PNG copy)>]
-<./figuras/Resultados/radiacion//SiCSiC.pdf, id=3165, 445.665pt x 302.12875pt>
+<./figuras/Resultados/radiacion//SiCSiC.pdf, id=2797, 445.665pt x 302.12875pt>
 File: ./figuras/Resultados/radiacion//SiCSiC.pdf Graphic file (type pdf)
 <use ./figuras/Resultados/radiacion//SiCSiC.pdf>
 Package pdftex.def Info: ./figuras/Resultados/radiacion//SiCSiC.pdf  used on in
-put line 823.
+put line 816.
 (pdftex.def)             Requested size: 245.83282pt x 166.65538pt.
  [37
 
@@ -1996,7 +1983,8 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [38
 
-] [39
+]
+[39
 
 ] (TFG_Slides.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -2005,8 +1993,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 ] [41
 
-]
-[42
+] [42
 
 ] [43
 
@@ -2022,15 +2009,15 @@ LaTeX Info: Redefining \% on input line 1.
 
 ] [49
 
-] [50
+]
+[50
 
 ] [51
 
 ] (TFG_Slides.bbl) [52
 
  <C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
-le.pdf>]
-[53
+le.pdf>] [53
 
 ]
 \tf@nav=\write6
@@ -2046,17 +2033,20 @@ le.pdf>]
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `TFG_Slides.out' has not changed.
 (rerunfilecheck)             Checksum: 17D22C759BDD629CCCF2C14D81C203FC;1213.
  ) 
 Here is how much of TeX's memory you used:
- 29663 strings out of 477843
- 611951 string characters out of 2823600
- 851011 words of memory out of 3000000
- 47790 multiletter control sequences out of 15000+600000
+ 29710 strings out of 477843
+ 612662 string characters out of 2823600
+ 851889 words of memory out of 3000000
+ 47818 multiletter control sequences out of 15000+600000
  485389 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,416b,774s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 128i,15n,122p,416b,770s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmmi10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -2078,9 +2068,9 @@ Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/marti/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
 s/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam1
 0.pfb>
-Output written on TFG_Slides.pdf (53 pages, 5669018 bytes).
+Output written on TFG_Slides.pdf (53 pages, 5650380 bytes).
 PDF statistics:
- 3930 PDF objects out of 4296 (max. 8388607)
- 138 named destinations out of 1000 (max. 500000)
+ 3568 PDF objects out of 3580 (max. 8388607)
+ 157 named destinations out of 1000 (max. 500000)
  373 words of extra memory for PDF output out of 10000 (max. 10000000)
 

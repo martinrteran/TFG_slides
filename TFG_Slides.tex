@@ -309,8 +309,9 @@
 			\label{fig:TPV}
 		\end{figure}
 	\end{frame}
-
-%%  CONSIDERACIONES PREVIAS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%       CONSIDERACIONES PREVIAS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\section{Consideraciones previas}
 	\begin{frame}{Consideraciones previas}
 		\proPath
@@ -351,6 +352,9 @@
 		\end{figure}
 		\end{adjustwidth}
 	\end{frame}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%      Otras consideraciones previas     
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\begin{frame}{Consideraciones previas}
 	\proPath
 	\begin{adjustwidth}{-2em}{-2em}
@@ -359,7 +363,7 @@
 			\only<1->{
 				\begin{subfigure}[c]{.62\textwidth}
 					\centering
-						\includegraphics[width=\textwidth]{Radiacion/ejemplo_final_simulacion_radP}
+						\includegraphics[width=\textwidth]{Radiacion/pestana_PotenciaRadiada2}
 					\label{fig:ejemplo_final_simulacion_radP}
 				\end{subfigure}
 			}
@@ -375,7 +379,9 @@
 	\end{adjustwidth}
 	\end{frame}
 
-%% RESULTADOS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                   RESULTADOS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \graphicspath{{./figuras/Resultados}}
 
 	\section{Resultados}
@@ -388,10 +394,13 @@
 		%\hypersetup{linkcolor=ashgrey}
 	\end{frame}
 	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%            Si-Si
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\subsection{nTPV Si-SiO2-Si}
-	\begin{frame}{nTPV Si-SiO2-Si}
-		\only<1>{ %%%   CONDUCCION
-			\frametitle{Conducción}
+	\begin{frame}{Conducción}
+		%%%   CONDUCCION
 			\resCondPath
 			\begin{columns}
 			\column{.5\textwidth}
@@ -426,9 +435,9 @@
 				\label{fig:SiSiO2Si_condRc}%
 			\end{figure}
 			\end{columns}			
-		}
-		\only<2>{
-			\frametitle{Conducción: Efectos de la porosidad}
+					
+		\end{frame}
+		\begin{frame}{Conducción: Efectos de la porosidad}
 			\resCondPath
 			\begin{columns}
 			\column{.55\textwidth}
@@ -445,16 +454,15 @@
 				\itshape $P(d,\rho)=- \frac{  16.47\cdot \rho-11.03 }{d-106.80\cdot \rho +74.68}$
 			\end{block}
 			\end{columns}
-		}
+		\end{frame}
+		\begin{frame}{Radiación}
 		%%%  RADIACION
-		\only<3>{
-			\frametitle{Radiación}
 			\resRadPath
 			\begin{columns}
 			%%
 				\column{.5\textwidth}
 					%\vspace{-10pt}
-						\begin{block}{\centering Por longitud de onda}
+						\begin{block}{\centering Espectral}
 						\end{block}
 					\vspace{15pt}
 						\begin{figure}[h]%
@@ -476,10 +484,9 @@
 						\end{figure}
 						\vfill
 				\end{columns}		
-		}
+		\end{frame}
+		\begin{frame}{Ratio de potencias para {$E>1.1eV$}}
 		%%%  DENSIDADES DE NANO-ESPACIADORES
-		\only<4>{
-			\frametitle{Densidades de nano-espaciadores ({\small $n^{\circ}esp/cm^2$}) y {\small $E>1.1eV$}}
 			\resRelPath
 			\begin{columns}
 			%%
@@ -507,13 +514,12 @@
 						\end{figure}
 						\vfill
 				\end{columns}		
-		}
 	\end{frame}
-	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                    Si-Ge
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\subsection{nTPV Si-SiO2-Ge}
-	\begin{frame}{nTPV Si-SiO2-Ge}
-			\only<1>{ %%%   CONDUCCION
-			\frametitle{Conducción}
+	\begin{frame}{Conducción}
 			\resCondPath
 			\begin{columns}
 			%%
@@ -540,11 +546,10 @@
 								\label{fig:SiSiO2Ge_condRc}%
 						\end{figure}
 						\vfill
-				\end{columns}							
-		}
+				\end{columns}		
+		\end{frame}
+		\begin{frame}{Radiación}
 		%%%  RADIACION
-		\only<2>{
-			\frametitle{Radiación}
 			\resRadPath
 			\begin{columns}
 			%%
@@ -571,11 +576,10 @@
 								\label{fig:SiSiO2Ge_radInt}%
 						\end{figure}
 						\vfill
-				\end{columns}		
-		}
+				\end{columns}
+		\end{frame}
+		\begin{frame}{Ratio de potencias}
 		%%%  DENSIDADES DE NANO-ESPACIADORES
-		\only<3>{
-			\frametitle{Densidades de nano-espaciadores ($n^{\circ}esp/cm^2$)}
 			\resRelPath
 			\begin{columns}
 			%%
@@ -638,13 +642,11 @@
 						\end{figure}
 						\end{minipage}
 				\end{columns}		
-		}
 	\end{frame}
 	
 	\subsection{nTPV SS-SiO2-Ge}
-		\begin{frame}{nTPV SS-SiO2-Ge}
-	\only<1>{ %%%   CONDUCCION
-			\frametitle{Conducción}
+		\begin{frame}{Conducción}
+%%%   CONDUCCION
 			\resCondPath
 			\begin{figure}[h]%
 				\centering
@@ -662,10 +664,9 @@
 				\end{subfigure}
 			\label{}%
 			\end{figure}					
-		}
+		\end{frame}
+		\begin{frame}{Radiación}
 		%%%  RADIACION
-		\only<2>{
-			\frametitle{Radiación}
 			\resRadPath
 			\begin{columns}
 			%%
@@ -693,9 +694,8 @@
 						\end{figure}
 						\vfill
 				\end{columns}		
-		}	
-		\only<3>{
-			\frametitle{Densidades de nano-espaciadores para $E>0.7eV$}
+		\end{frame}
+		\begin{frame}{Ratio de potencias}
 			\resRelPath
 			\vspace{-5pt}
 			\begin{figure}[h]%
@@ -714,13 +714,11 @@
 				\end{subfigure}
 			\label{SsSiO2Ge_rel}%
 			\end{figure}	
-		}
 	\end{frame}
 	
 	\subsection{nTPV SiC-SiO2-Ge}
-	\begin{frame}{nTPV SiC-SiO2-Ge}
-		\only<1>{ %%%   CONDUCCION
-			\frametitle{Conducción}
+	\begin{frame}{Conducción}
+ %%%   CONDUCCION
 			\resCondPath
 			\begin{columns}
 			%%
@@ -748,10 +746,9 @@
 						\end{figure}
 						\vfill
 				\end{columns}							
-		}
+		\end{frame}
+		\begin{frame}{Radiación}
 		%%%  RADIACION
-		\only<2>{
-			\frametitle{Radiación}
 			\resRadPath
 			\begin{columns}
 			%%
@@ -779,9 +776,8 @@
 						\end{figure}
 						\vfill
 				\end{columns}		
-		}
-				\only<3>{
-			\frametitle{Densidades de nano-espaciadores ({\small $n^{\circ}esp/cm^2$}) y {\small $E>0.7eV$}}
+		\end{frame}
+		\begin{frame}{Ratio de potencias}
 			\resRelPath
 			\begin{columns}
 			%%
@@ -809,17 +805,14 @@
 						\end{figure}
 						\vfill
 				\end{columns}		
-		}
-		\only<4>{
-		\frametitle{Frecuencia de resonancia ($\omega_{res}$)}
+		\end{frame}
+		\begin{frame}{Frecuencia de resonancia ($\omega_{res}$)}	
 			\resRadPath
 		\begin{figure}[h]
 			\centering
 				\includegraphics[width=.8\textwidth]{SiCSiC.pdf}
 			\label{fig:SiCSiC}
 		\end{figure}
-		
-		}
 	\end{frame}
 	
 	\subsection{Densidad de carga}
